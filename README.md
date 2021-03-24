@@ -26,9 +26,15 @@ A modification of the FFRPG 3rd System
     - Blizzard -> Slow
     - Fire -> Bigger AoE
     - Aero -> Bonus Dmg to Enemies with Float or who are flying
+  - Charge Time to Spells
 - [ ] Skill Rework
   - Too many points and too confusing to put points in right now
   - Way too many skills for Lore, Language, and Crafting
+- [ ] Other Changes
+  - Hit Die, Magic Die, & Resting
+    - Lower 3 rests consume hit die
+    - Higher 3 rests restore hit die
+    - Only spend X hit die based on amount of rest
 - [ ] Monster Builder
 - [ ] Character Builder
 - [ ] Monster Compendium
