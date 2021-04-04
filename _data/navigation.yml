@@ -14,9 +14,9 @@ docs:
   - title: Final Fantasy RPG v5
     children:
       - title: "Introduction"
-        url: /_docs/ffrpg5/introduction.md
+        url: /docs/ffrpg5/introduction.md
       - title: "Classes"
-        url: /_docs/ffrpg5/classes.md
+        url: /docs/ffrpg5/classes.md
       - title: "Jobs"
-        url: /_docs/ffrpg5/jobs.md
+        url: /docs/ffrpg5/jobs.md
       
