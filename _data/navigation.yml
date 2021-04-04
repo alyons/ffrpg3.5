@@ -10,13 +10,14 @@ main:
 
 docs:
   - title: Final Fantasy RPG v3.5
-    url: /_docs/ffrpg3.5/introduction.md
+    url: /docs/ffrpg3.5/introduction.md
   - title: Final Fantasy RPG v5
     children:
       - title: "Introduction"
-        url: /docs/ffrpg5/introduction.md
+        url: /docs/ffrpg5/
       - title: "Classes"
-        url: /docs/ffrpg5/classes.md
+        url: /docs/ffrpg5/classes/
       - title: "Jobs"
-        url: /docs/ffrpg5/jobs.md
-      
+        url: /docs/ffrpg5/jobs/
+      - title: "Magic"
+        url: /docs/ffrpg5/magic/
