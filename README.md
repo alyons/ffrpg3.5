@@ -2,6 +2,8 @@
 
 A modification of the FFRPG 3rd System
 
+Theme: [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+
 ## To Do:
 - [ ] Updated website to be easier to read
   - Make a modern version of the website
