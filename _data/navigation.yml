@@ -11,36 +11,7 @@ main:
 docs:
   - title: Final Fantasy RPG v3.25
     url: /docs/ffrpg3.25/
-    children:
-      - title: "Part 1"
-        children:
-          - title: Introduction
-          - title: Building Your Character
-          - title: Races
-          - title: Basic Classes
-          - title: Advanced Jobs
-          - title: Specialty Jobs
-          - title: Origin
-          - title: Equipment
-          - title: Advantages and Disadvantages
-      - title: "Part 2"
-        children:
-          - title: Using Attributes and Skills
-          - title: Adventuring
-          - title: Combat
-      - title: "Part 3"
-        children:
-          - title: Spell Casting
-          - title: Spells
-      - title: Appendix
-        children:
-          - title: Statuses
-          - title: Skills Expanded
-          - title: Monster Creation System
-          - title: Summoning
-          - title: Storytelling
-          - title: Game Sheets
-      - title: Glossary
+
   - title: Final Fantasy RPG v5
     children:
       - title: "Introduction"
@@ -51,3 +22,34 @@ docs:
         url: /docs/ffrpg5/jobs/
       - title: "Magic"
         url: /docs/ffrpg5/magic/
+
+ffrpg3_25:
+  - title: "Part 1"
+    children:
+      - title: Introduction
+      - title: Building Your Character
+      - title: Races
+      - title: Basic Classes
+      - title: Advanced Jobs
+      - title: Specialty Jobs
+      - title: Origin
+      - title: Equipment
+      - title: Advantages and Disadvantages
+  - title: "Part 2"
+    children:
+      - title: Using Attributes and Skills
+      - title: Adventuring
+      - title: Combat
+  - title: "Part 3"
+    children:
+      - title: Spell Casting
+      - title: Spells
+  - title: Appendix
+    children:
+      - title: Statuses
+      - title: Skills Expanded
+      - title: Monster Creation System
+      - title: Summoning
+      - title: Storytelling
+      - title: Game Sheets
+  - title: Glossary
