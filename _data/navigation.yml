@@ -20,32 +20,38 @@ main:
 #         url: /docs/ffrpg5/magic/
 
 ffrpg325:
-  - title: "Part 1"
+  - title: "Part 0"
     children:
-      - title: Introduction
-      - title: Building Your Character
-      - title: Races
-      - title: Basic Classes
-      - title: Advanced Jobs
-      - title: Specialty Jobs
-      - title: Origin
-      - title: Equipment
-      - title: Advantages and Disadvantages
-  - title: "Part 2"
+      - title: "Prelude"
+        url: /ffrpg325/part0/prelude/
+      - title: "Introduction"
+        url: /ffrpg325/
+  - title: "Part 1 - Building Your Character"
     children:
-      - title: Using Attributes and Skills
-      - title: Adventuring
-      - title: Combat
-  - title: "Part 3"
-    children:
-      - title: Spell Casting
-      - title: Spells
-  - title: Appendix
-    children:
-      - title: Statuses
-      - title: Skills Expanded
-      - title: Monster Creation System
-      - title: Summoning
-      - title: Storytelling
-      - title: Game Sheets
-  - title: Glossary
+      - title: Character Building Example
+        url: /ffrpg325/part1/character-building-example/
+  #     - title: Races
+  #     - title: Basic Classes
+  #     - title: Advanced Jobs
+  #     - title: Specialty Jobs
+  #     - title: Origin
+  #     - title: Equipment
+  #     - title: Advantages and Disadvantages
+  # - title: "Part 2"
+  #   children:
+  #     - title: Using Attributes and Skills
+  #     - title: Adventuring
+  #     - title: Combat
+  # - title: "Part 3"
+  #   children:
+  #     - title: Spell Casting
+  #     - title: Spells
+  # - title: Appendix
+  #   children:
+  #     - title: Statuses
+  #     - title: Skills Expanded
+  #     - title: Monster Creation System
+  #     - title: Summoning
+  #     - title: Storytelling
+  #     - title: Game Sheets
+  # - title: Glossary
