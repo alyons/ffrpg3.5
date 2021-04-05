@@ -3,8 +3,6 @@ permalink: /docs/ffrpg5/magic/
 title: "Magic"
 ---
 
-# Magic
-
 - Design Level 3/4 of skills first, push silliness, make lower levels lesser effects
 - Magic Die is simply d10, more or less MP
 - Spells Cost half a Magic Die per Spell Level (6 right now)

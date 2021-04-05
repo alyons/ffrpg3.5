@@ -1,9 +1,7 @@
 ---
-permalink: /ffrpg5/classes/
+permalink: /docs/ffrpg5/classes/
 title: "Basic Classes"
 ---
-
-# Basic Classes
 
 ## Martial Classes
 

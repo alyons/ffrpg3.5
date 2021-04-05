@@ -1,9 +1,7 @@
 ---
-permalink: /ffrpg/jobs/
+permalink: /docs/ffrpg/jobs/
 title: "Advanced Jobs"
 ---
-
-# Advanced Jobs
 
 ## All Jobs
 
