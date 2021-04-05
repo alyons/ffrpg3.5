@@ -1,6 +1,6 @@
 main:
   - title: "v3.25"
-    url: /325/
+    url: /ffrpg325/
   - title: "About"
     url: /about/
 
@@ -19,7 +19,7 @@ main:
 #       - title: "Magic"
 #         url: /docs/ffrpg5/magic/
 
-ffrpg3_25:
+ffrpg325:
   - title: "Part 1"
     children:
       - title: Introduction

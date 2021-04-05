@@ -32,9 +32,9 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
-  - _325
-  - _350
+  - _ffrpg325
   - _pages
+  # - _350
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -106,15 +106,15 @@ defaults:
     values:
       layout: single
       author_profile: false
-  # _ffrpg3_25
+  # _ffrpg325
   - scope:
-      path: "_325"
+      path: "_ffrpg325"
       type: pages
     values:
       layout: single
       author_profile: false
       sidebar:
-        nav: "ffrpg3_25"
+        nav: "ffrpg325"
   # # _docs
   # - scope:
   #     path: "_docs"
