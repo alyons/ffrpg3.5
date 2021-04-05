@@ -1,5 +1,5 @@
 ---
-permalink: /ffrpg325/
+permalink: /ffrpg325/play-guide/
 title: "Play Guide"
 ---
 
