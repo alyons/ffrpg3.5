@@ -1,5 +1,5 @@
 ---
-permalink: /docs/ffrpg3.25/
+permalink: /325/
 title: "Introduction"
 ---
 
