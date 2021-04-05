@@ -3,8 +3,6 @@ permalink: /ffrpg325/
 title: "Introduction"
 ---
 
-# Introduction
-
 Welcome to Final Fantasy Role Playing Game 3.25.
 
 ## Worlds of Final Fantasy
