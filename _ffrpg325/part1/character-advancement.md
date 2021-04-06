@@ -1,6 +1,6 @@
 ---
 permalink: /ffrpg325/part1/character-advancement/
-title: "Character Building Example"
+title: "Character Advancement & Experienced Characters"
 ---
 
 ## Character Advancement
@@ -55,13 +55,16 @@ requirements for each Level.
 |32         |16000      |248000     |65         |32500      |1040000    |98         |49000      |2376500    |
 |33         |16500      |264000     |66         |33000      |1072500    |99         |49500      |2425500    |
 
-Learning New Abilities
+### Learning New Abilities
+
 Most Jobs gain new Abilities at certain Levels – on average, every 7
 Levels up to Level 64. The Level an Ability is gained is shown in
 Chapter 4 to the right of the Ability's name. For instance, the
 Samurai gains the Ability Mineuchi at Level 8; the Fighter the Ability
 Third Eye.
-Learning New Spells
+
+### Learning New Spells
+
 Characters with access to White, Black, Time, or Red Magic will gain
 new Spells every few Levels, allowing them to pick a Spell from a
 given Spell Level and add it to their repertoire. The exact Levels this
@@ -69,7 +72,9 @@ occurs at will be given in the Job's profile in Chapter 4. Note that in
 order to be able to select a Spell, any prerequisites the Spell has
 must be met – to choose Fira, for instance, a character must also
 have learned Fire. Prerequisites are laid out in Chapter 8.
-BLUE AND SUMMON MAGIC
+
+#### BLUE AND SUMMON MAGIC
+
 New Blue and Summon Spells can only be acquired during the
 course of a session, and are gained independently of the
 character's current Level. To obtain a new Blue Spell, a character
@@ -79,13 +84,16 @@ character must either defeat the Summon in battle or complete a
 task to earn the Summon's trust. In certain cases, Blue Spells, Calls,
 and Summons may be awarded through items found during the
 session or given out as quest rewards.
-Increasing Hit and Magic Points
+### Increasing Hit and Magic Points
+
 Every time a character gains a Level, their maximum Hit Points
 increase by Job's Hit Die + (VIT / 2). Jobs with a Magic Die also
 increase their maximum Magic Points by Job's Magic Die + (SPR /
 2). All rolls should be made in front of the rest of the group or GM,
 and calculated before any other changes are made to the character.
-Increasing Attributes
+
+### Increasing Attributes
+
 Characters receive 1 Attribute Point every time they gain a Level.
 This may be allocated to any of the character’s six Attributes,
 provided that Attribute Points are not spent on the same Attribute
@@ -97,17 +105,19 @@ Attribute Cap of 25 in STR – his Racial Maximum of 10 plus the
 Fighter’s +15 bonus to STR. Attributes may be raised after the
 character has reached the Attribute Cap, but this requires 2 Attribute
 Points rather than 1 and may only be done once all Attributes are at
-their respective Caps.
+their respective Caps.  
 The only other circumstance under which an Attribute Cap can be
 'broken' is with Equipment Abilities. Note that the absolute maximum
 value permitted for an Attribute is 30, including bonuses from
 equipment – a character with STR 28 equipping a Hyper Wrist (+5
-STR) would only raise her Strength to 30, not 33.
+STR) would only raise her Strength to 30, not 33.  
 Once an Attribute has been raised, adjust the character’s Attribute
 Ratings and Combat Statistics accordingly. If the player has been
 keeping track of it, precalculated damage may also need to be
 adjusted as a result of this.
-Increasing Skills
+
+### Increasing Skills
+
 Upon gaining a Level, a character receives 10 Skill Points to spend
 on improving Skill Ratings and 6 points for improving Language* and
 Lore* ratings; unused Skill Points are not carried over to the next
@@ -118,11 +128,15 @@ as costing twice the normal rate. The player may distribute their Skill
 Points as they choose, but once a Skill's Rating has reached 50, it
 cannot be increased by more than 2 after a Level has been gained.
 In addition, no Skill’s Rating may ever be raised above 100.
-Learning Skills
+
+### Learning Skills
+
 New Skills may also be learned upon gaining a Level using one of
 three methods: revelation, teaching, or research. Each of these
 three methods has its own requirements.
-REVELATION
+
+#### REVELATION
+
 Sometimes, characters find they have talents and depths they didn't
 even know they possessed. A character that rolls a Critical Success
 on a defaulted Skill Roll may immediately gain that Skill at a Rating of
@@ -133,7 +147,9 @@ revelations to strike, the Task Check's CoS must be 40 or lower. As
 successful rolls made under the Rule of 10 do not count as a Critical
 Success, they cannot be used to gain Skills through revelation. Any
 number of Skills may be learned at once in this manner.
-TEACHING
+
+#### TEACHING
+
 Alternately, characters may opt to learn a Skill from another
 character – PC or NPC – with the Teaching Skill. If nobody in the
 party has this Skill, the character must track down an appropriate
@@ -142,24 +158,29 @@ Skill. Teachers who aren't personal friends or allies of the character
 may demand a fee for training; suggested costs have been given
 below.
 Table 2-3: Teaching Costs
-SKILL'S DEFAULT RATING COST PER SKILL
-1 – 20 200 G
-21 – 30 500 G
-31 – 40 2000 G
-41 – 50 5000 G
-Learned Skill 300 G
+
+|SKILL'S DEFAULT RATING|COST PER SKILL|
+|:-------------------:|:-------------:|
+|1 – 20| 200 G|
+|21 – 30| 500 G|
+|31 – 40 |2000 G|
+|41 – 50 |5000 G|
+| Learned Skill | 300 G |
+
 Once all costs have been paid, the PC – or NPC – with the Teaching
 Skill must make a Task Check against it to see if instruction is
 successful. To determine the Conditional Modifier for this Task Check,
 add together all applicable modifiers from the list below.
-CONDITIONAL MODIFIERS
-Teacher's Skill Rating in Skill being taught less than 50: -20
-Teaching Intuitive Skill: +20
-Teaching Learned Skill: 0
-Ample time (10 or more days): +20
-Sufficient time (5 days): 0
-Inadequate time (2 to 3 days): -20
-Extreme time pressure (1 day or less): -60
+
+CONDITIONAL MODIFIERS  
+Teacher's Skill Rating in Skill being taught less than 50: **-20**  
+Teaching Intuitive Skill: **+20**  
+Teaching Learned Skill: **0**  
+Ample time (10 or more days): **+20**  
+Sufficient time (5 days): **0**  
+Inadequate time (2 to 3 days): **-20**  
+Extreme time pressure (1 day or less): **-60**  
+
 If the Task Check is successful, the character gains the Skill at a
 Rating of 20 or the characters default, whichever is highest.
 Otherwise, the time and money invested have been wasted; the
@@ -171,7 +192,9 @@ character again, forcing the character to find a new instructor. In the
 event of a Critical Success, the character has an unexpected
 breakthrough, halving the time needed to learn the Skill. Only one
 Skill at a time may be learned in this manner.
-RESEARCH
+
+#### RESEARCH
+
 Instead of learning a new Skill from another person, a character can
 also attempt to pick it up from magazines, books, or computer
 programs. If the character does not have access to the materials
@@ -179,23 +202,28 @@ they need to do their research, they must buy or obtain them
 beforehand. Research materials have an Availability Rating of 90 by
 default, though this may be lowered for unusual or specialized Skills;
 suggested costs have been given below.
-CHARACTER'S LEVEL COST PER SKILL
-1 – 20 300 G
-21 – 30 750 G
-31 – 40 3000 G
-41 – 50 7500 G
-Learned Skill 500 G
+
+|CHARACTER'S LEVEL | COST PER SKILL|
+|:----------------:|:-------------:|
+|1 – 20 |300 G|
+|21 – 30| 750 G|
+|31 – 40| 3000 G|
+|41 – 50| 7500 G|
+|Learned Skill|500 G|
+
 Once the materials have been obtained, the character must make a
 Task Check against Inquiry. To determine the Conditional Modifier for
 this Task Check, add together all applicable modifiers from the list
 below.
-CONDITIONAL MODIFIERS
-Researching Intuitive Skill: +20
-Researching Learned Skill: 0
-Ample time (10 or more days): +20
-Sufficient time (5 days): 0
-Inadequate time (2 to 3 days): -20
-Extreme time pressure (1 day or less): -60
+
+CONDITIONAL MODIFIERS  
+Researching Intuitive Skill: **+20**  
+Researching Learned Skill: **0**  
+Ample time (10 or more days): **+20**  
+Sufficient time (5 days): **0**  
+Inadequate time (2 to 3 days): **-20**  
+Extreme time pressure (1 day or less): **-60**  
+
 If the Task Check is successful, the character gains the Skill at a
 Rating of 20 or the characters default, whichever is highest.
 Otherwise, the character's materials are insufficient; the character
@@ -206,7 +234,7 @@ In the event of a Critical Success, the character has an unexpected
 breakthrough, halving the time needed to learn the Skill. Only one
 Skill at a time may be learned in this manner.
 
-### Experienced Characters
+## Experienced Characters
 
 Though most of the FFRPG assumes that a character will begin a
 game at Level 1 and work their way up the ranks, a GM may wish to
@@ -219,7 +247,8 @@ impractical for most players. For this reason, the following pages
 present a ‘fast-track’ method for creating higher-Level characters
 on the fly. For the most part, the player should continue to follow the
 steps outlined in this chapter; the salient changes run as follows.
-Attributes
+
+### Attributes
 Experienced characters have 40 + (LVL-1) Attribute Points to divide
 between the six Attributes, following the same one-to-one ratio as in
 normal character creation. The absolute limit for any Attribute’s
@@ -227,18 +256,26 @@ value is equal to the Racial Maximum in that Attribute plus their
 chosen Job’s bonus. For instance, a Human Monk would be able to
 raise their STR to 25 – 10 for the Racial Maximum, plus 15 for the
 Job bonus.
-Combat Statistics
+
+### Combat Statistics
+
 Combat Statistics are generated as normal, with the exception of Hit
 Points and Magic Points. These are generated using the following
 formulas:
+
+```
 30 + VIT + (Level x Hit Die) + ((VIT / 2) x (Level - 1))
 10 + SPR + (Level x Magic Die) + ((SPR / 2) x (Level - 1))
+```
+
 Both formulas use the median value of Job’s Hit and Magic Dice
 rather than a roll. A Job with a d10 Hit Die, for instance, would have
 a value of 5, while a Job with a d6 Hit Die would have a value of 3.
 As at character creation, any Job without a Magic Die will have 0 MP,
 regardless of their Spirit.
-Skills
+
+### Skills
+
 An experienced character receives a number of Skill Points equal to
 those received by a Level 1 character of their chosen Job, plus a
 bonus of 10 x (Level - 1) Points. They also receive the standard
@@ -247,13 +284,16 @@ at a Rating of 50 and Awareness at 30 for free – plus an additional
 6 x (Level - 1) Points for Language* and Lore* skills. Skills still have
 a minimum Rating of 20, but can have a maximum Rating of up to
 48 + (2 x Level), with an absolute maximum of 100.
-Equipment
+
+### Equipment
+
 Experienced characters receive more Gil for buying equipment and
 items; at higher Levels, they will also have access to equipment not
 normally purchasable by starting characters. The table below gives
 recommended benchmarks for Gil awards, as well as suggested
 Availability limits for starting equipment.
 Table 2-5: Starting Gil and Equipment
+
 LEVEL GIL AVAILABILITY EQUIPMENT
 1 500 91% ---
 2 600 90% ---
@@ -271,16 +311,19 @@ LEVEL GIL AVAILABILITY EQUIPMENT
 50 40000 32% 1 Artifact
 65+ 40000 13% 2 Artifacts
 1 Legendary
+
 For characters with Levels between these benchmarks, use the table
 below to determine exact values. Round down for purposes of
 determining Availability Ratings.
 Table 2-6: Level-Specific Adjustments
+
 LEVEL GIL PER LEVEL AVAILABILITY PER LEVEL
 11 – 20 +1000 -1.25%
 21 – 30 +1500 -1.25%
 31 – 40 +1000 -1.25%
 41 – 50 --- -1.25%
 51 – 65 --- -1.25%
+
 Once all this has been done, all that remains is for the player to
 choose their equipment. For instance, a character created at Level
 14 would have 9000 Gil in spending money – 5000 for the Level 10
@@ -294,6 +337,7 @@ receive a larger stipend; its exact value is given on the table below.
 Note that a Level 65+ Engineer also receives one free Artifact Part
 of their choice to use in a starting Invention.
 Table 2-7: Invention Stipends
+
 LEVEL INVENTION STIPEND ARTIFACT PARTS
 1 100 ---
 2 120 ---
@@ -310,15 +354,18 @@ LEVEL INVENTION STIPEND ARTIFACT PARTS
 40 8000 ---
 50 10000 ---
 65+ 10000 1
+
 For characters with Levels between these benchmarks, use the table
 below to determine exact values.
 Table 2-8: Invention Stipend Details
+
 LEVEL RANGE GIL PER LEVEL
 11 – 20 200
 21 – 30 300
 31 – 40 300
 41 – 50 200
 51 – 65 ---
+
 Magic
 Characters capable of using Black, White, Red, or Time Magic gain
 starting Spells as normal, plus any additional Spells their Level would

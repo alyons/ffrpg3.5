@@ -215,6 +215,7 @@ course of the game.
 > **Generating a Character (7)**  
 The first thing Carl makes a note of is the Mithra statline,
 which gives him the following range of Racial Maximums:
+>
 > | Str | Vit | Agi | Spd | Mag | Spr |
 > |:---:|:---:|:---:|:---:|:---:|:---:|
 > | 9   | 9   | 12  | 12  | 9   | 9   |
@@ -226,6 +227,7 @@ Magic; Carl raises STR and AGI to 6 and 5 and MAG and SPD to
 9 and 8 respectively, giving him 4 more points to spend on
 boosting VIT and SPR. Kumani’s final Attribute distribution runs
 as follows:
+>
 > | Str | Vit | Agi | Spd | Mag | Spr |
 > |:---:|:---:|:---:|:---:|:---:|:---:|
 > | 6   | 5   | 5   | 8   | 9   | 7   |
@@ -315,6 +317,7 @@ character, then applying the modifier given for the character's SPR in
 table below to the total to find the character’s final M. ARM.
 
 **Table: ARM and M. ARM Bonuses**
+
 |CHARACTER'S VIT/SPR ARM / M. ARM|MODIFIER|
 |:------------------------------:|:------:|
 |1 - 2 |+5%|
