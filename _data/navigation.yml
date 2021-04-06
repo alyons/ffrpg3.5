@@ -8,21 +8,6 @@ main:
   - title: "About"
     url: /about/
 
-# docs:
-#   - title: Final Fantasy RPG v3.25
-#     url: /docs/ffrpg3.25/
-
-#   - title: Final Fantasy RPG v5
-#     children:
-#       - title: "Introduction"
-#         url: /docs/ffrpg5/
-#       - title: "Classes"
-#         url: /docs/ffrpg5/classes/
-#       - title: "Jobs"
-#         url: /docs/ffrpg5/jobs/
-#       - title: "Magic"
-#         url: /docs/ffrpg5/magic/
-
 ffrpg325:
   - title: "Part 0"
     children:
@@ -66,3 +51,7 @@ ffrpg325:
   # - title: Glossary
   - title: "Part 4"
     url: 
+
+ffrpg350:
+  - title: "Part 0"
+    url: /ffrpg350/
