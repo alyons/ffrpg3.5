@@ -238,7 +238,17 @@ resistance to attacks can all enhance a character’s combat ability;
 conversely, physical ailments and other difficulties diminish it. In
 game terms, these are expressed through Advantages and
 Disadvantages. Though only available at the GM's discretion, they
-offer a number of ways to further personalize a character.
+offer a number of ways to further personalize a character.  
+Each of the Advantages and Disadvantages presented over the
+next few pages has a specific point cost assigned to it; Advantages
+have a positive cost, while Disadvantages have a negative one. If a
+GM allows a player to buy Advantages and Disadvantages during
+character creation, their combined cost of must be less than or
+equal to 0. No more than 10 Points of Advantages may be taken,
+and no Advantage or Disadvantage may be taken more than once
+unless this is explicitly permitted in its description. Even if an
+Advantage or Disadvantage has multiple effects with separate point
+costs, only one of these effects may be taken by default.  
 
 The page for [Advantages and Disadvantages](/ffrpg325/part1/advantages-disadvantages/) contains information about all of the available choices one can make when creating their character.
 
@@ -263,7 +273,7 @@ ratio of 1 to 1. A character’s Job will also impose restrictions on
 what kinds of items they can use – consult the Job's profile in
 Chapter 4 for more details.
 
-> **Generating a Character (9)**
+> **Generating a Character (9)**  
 Carl’s first priority is a weapon. As a Blue Mage, Kumani is
 limited to a handful of potential weapons; scanning these, Carl
 decides the most appropriate choice would be Gloves. 75 G is
@@ -277,64 +287,67 @@ spend on other Items and Accessories. Carl buys two Tonics
 
 While a player cannot directly spend Attribute Points to modify
 Combat Statistics, they can indirectly influence them through their
-Attributes. The eight Statistics are generated as follows:
-Hit Points (HP): All Jobs have a Hit Die given in their profiles – a
+Attributes. The eight Statistics are generated as follows:  
+**Hit Points (HP):** All Jobs have a Hit Die given in their profiles – a
 Black Mage, for instance, has a Hit Die of d6. In order to generate
 the character’s starting HP, just roll the indicated die, add 30 to the
 result, then add the character’s VIT value. The total is the number of
-Hit Points the character will have upon starting the game.
-Magic Points (MP): All Magic-using Jobs will have a specific Magic
+Hit Points the character will have upon starting the game.  
+**Magic Points (MP):** All Magic-using Jobs will have a specific Magic
 Die listed in their profile. As with the Hit Die, roll this, add 10 to the
 result, and then add the character’s SPR value to get the total
 number of Magic Points the character starts the game with. If the
 character’s chosen Job does not have a Magic Die, skip this step.
-They will always have 0 MP, regardless of their SPR.
-Evasion (EVA): A character's Evasion rating is calculated by
+They will always have 0 MP, regardless of their SPR.  
+**Evasion (EVA):** A character's Evasion rating is calculated by
 adding together their AGI and SPD, then adding any bonuses
-conferred by equipment.
-Magic Evasion (M. EVA): M. Evasion is calculated by adding
+conferred by equipment.  
+**Magic Evasion (M. EVA):** M. Evasion is calculated by adding
 together a character's SPR and MAG, then adding any bonuses
-conferred by equipment.
-Armor (ARM): A character’s Armor rating is calculated by adding
+conferred by equipment.  
+**Armor (ARM):** A character’s Armor rating is calculated by adding
 together the ARM values of every piece of armor the character has
 equipped, then applying the modifier given for the character's VIT in
-Table 2-2 to the total. The result is the character’s final ARM.
-Magic Armor (M. ARM): This statistic is calculated by adding
+the table below to the total. The result is the character’s final ARM.  
+**Magic Armor (M. ARM):** This statistic is calculated by adding
 together the M. ARM values of every piece of armor equipped by the
 character, then applying the modifier given for the character's SPR in
-Table 2-2 to the total to find the character’s final M. ARM.
-Table 2-2: ARM and M. ARM Bonuses
-CHARACTER'S VIT/SPR ARM / M. ARM MODIFIER
-1 - 2 +5%
-3 - 4 +10%
-5 - 6 +15%
-7 - 8 +20%
-9 - 10 +25%
-11 - 12 +30%
-13 - 14 +35%
-15 - 16 +40%
-17 - 18 +45%
-19 - 20 +50%
-21 - 22 +55%
-23 - 24 +60%
-25 - 26 +65%
-27 - 28 +70%
-29 - 30 +75%
-Dexterity (DEX): DEX is calculated via the formula:
-Level + (AGI x 2) + 50
-Mind (MND): Mind is calculated via the formula:
-Level + (MAG x 2) + 50
-Accuracy (ACC): ACC is calculated via the formula:
-Level + (AGI x 2) + Job's Attack Bonus + Weapon Skill
+table below to the total to find the character’s final M. ARM.
+
+**Table: ARM and M. ARM Bonuses**
+|CHARACTER'S VIT/SPR ARM / M. ARM|MODIFIER|
+|:------------------------------:|:------:|
+|1 - 2 |+5%|
+|3 - 4|+10%|
+|5 - 6 |+15%|
+|7 - 8 |+20%|
+|9 - 10 |+25%|
+|11 - 12 |+30%|
+|13 - 14 |+35%|
+|15 - 16| +40%|
+|17 - 18| +45%|
+|19 - 20| +50%|
+|21 - 22| +55%|
+|23 - 24 |+60%|
+|25 - 26 |+65%|
+|27 - 28 |+70%|
+|29 - 30 |+75%|
+
+**Dexterity (DEX):** DEX is calculated via the formula:
+Level + (AGI x 2) + 50  
+**Mind (MND):** Mind is calculated via the formula:
+Level + (MAG x 2) + 50  
+**Accuracy (ACC):** ACC is calculated via the formula:
+Level + (AGI x 2) + Job's Attack Bonus + Weapon Skill  
 The Weapon Skill used in the formula is the one required by the
 currently equipped Weapon – Swords for Greatswords, Cudgels for
-Rods, Guns for Rifles, and so forth.
-Magic Accuracy (M. ACC): M. ACC is calculated via the formula:
-Level + (MAG x 2) + 100.
-Expertise (EXP): Used only for Expert Jobs. Expertise is calculated
-via the formula:
+Rods, Guns for Rifles, and so forth.  
+**Magic Accuracy (M. ACC):** M. ACC is calculated via the formula:
+Level + (MAG x 2) + 100.  
+**Expertise (EXP):** Used only for Expert Jobs. Expertise is calculated
+via the formula:  
 (Expert Skill / 2) + Level + (Skill's Default Attribute x 2)
-except for the Engineer, which uses the following formula:
+except for the Engineer, which uses the following formula:  
 (Invent Rating / 2) + Level + (AGI x 2)
 For all Expert Jobs, the applicable Expert Skill will be listed in the
 Job's profile.
@@ -371,13 +384,138 @@ Dexterity: Dexterity is 61, or 50 plus Kumani's Level of 1
 plus (AGI x 2), which comes out to 10.
 
 ### 08. Skills
+
+The character's Skills are the next thing to consider. Depending on
+their Job, characters will have a certain number of Skill Points to
+allocate between Skills chosen from the lists in Chapter Five. In
+general, Mage Jobs have the highest Skill Point totals, Warriors the
+lowest. All Skills are purchased at a rate of 1 Skill Point per 1 point
+of Skill Rating unless a character has an Aptitude towards the Skill
+Category in question, as explained below. Some Skills may also be
+double-cost, and require twice as many Skill Points to raise. All Skills
+purchased during character creation must have a minimum Rating of
+20, and cannot exceed a Rating of 50. All Jobs must have at least
+one Weapon Skill at the minimum Rating of 20, and gain Awareness
+at a Rating of 30 at no cost to their Skill Points.
+Keep in mind that all of a character's Skills should be plausibly
+consistent with their background – it’d be hard to believe that a
+blacksmith’s son wouldn’t have had the time to pick up at least a few
+points in Crafting* or Repair. On the flipside, a foundling adopted
+and raised by roaming monsters would hardly have the opportunity
+or capacity to have learned Etiquette.
+
+#### SKILL APTITUDES
+
+A character's chosen Job will have its repercussions on their ability
+to learn certain types of Skills – it goes without saying, for instance,
+that a Fighter is able to pick up new weapons more easily than a
+Black Mage. In game terms, this is expressed through Skill
+Aptitudes. A Job's Skill Aptitude represents a group of Skills a
+character’s training is likely to put a heavier focus on. Skill Points put
+into a Skill belonging to a Category the character has an Aptitude to
+are spent at a rate of 1:2; that is to say, for every one Point spent,
+the Skill's Rating increases by 2.
+
+> **Generating a Character (12)**  
+As a Blue Mage, Kumani has a Skill Aptitude for Wilderness
+Skills and 260 Skill Points to spend. Carl decides Kumani’s
+Skills should reflect her martial arts training as well as a
+generally more rough-and-tumble character capable of
+surviving in the wilds. For the former, he puts 15 Points apiece
+into Scavenge, Survival, and Swimming. As all three are
+Wilderness Skills, this raises each Skill’s Rating to 30, leaving
+Carl with another 215 Points to spend. To represent Kumani’s
+training and aptitudes as a brawler, he next takes Brawl at the
+maximum possible Rating at 50, plus Acrobatics at 40,
+Cooking at 30, and Intimidation at 40. This leaves 55 Points;
+to round off the selection, Carl takes two Skills to represent
+Kumani’s involvement with less savory elements: Escape at 25
+and Streetwise at 30.
+
+#### LORES AND LANGUAGES
+In addition to the Skill Points allocated by the character’s Job, the
+character receives an additional 160 Points solely for purchasing the
+Scholastic Skills Lore* and Language*. This represents the
+character’s ‘knowledge base.' The character also gains Common
+Tongue at a Rating of 50, regardless of any other Lore* and
+Language* Skills purchased; this does not decrease the available
+quantity of Skill Points.
+
+> **Generating a Character (13)**  
+Now Carl selects Kumani’s Lore* and Language* Skills. 50
+Points are spent on obtaining a Skill Rating of 50 in Bahsa
+Mithra – enough to give Kumani a comfortable level of
+proficiency to complement her Common Tongue. This leaves
+Carl with a further 110 Points. 30, 50 and 30 Points are spent
+on the Lore*s Blue Magic, Martial Arts and World Lore
+respectively, rounding off Kumani’s Skill selection in the
+process.
+
+#### DEFERRING SKILL SELECTION
+
+Under normal circumstances, any Skill Points not spent during
+character creation do not carry over into the game proper, and are
+lost if left unspent by the time the character is finished. However, if
+the players find themselves struggling to come up with a Skill set
+that suits their characters, the GM may wish to allow them to start
+FINAL FANTASY – THE ROLEPLAYING GAME 32
+the game with a minimal selection and choose the rest of their Skills
+during the course of the game.  
+Make a note of how many Points the character had for
+conventional Skills, Lore*, and Language* when the game started.
+At any point during the game, the player can declare that they have
+background in a given Skill, and spend some of their ‘stock’ of
+Points to obtain the Skill at a Rating of 20 or higher. Ideally, this
+should be done in a fashion that reveals a little more about the
+character – a quick aside like “Didn’t you know I was an expert
+fisherman when I was younger?” These points can also be spent on
+Skills gained through revelation, as described further on.  
+Note that Points gained by deferring Skill selection cannot be
+spent on raising Skills upon gaining a Level – they are exclusively to
+be used on acquiring new Skills.
+
 ### 09. Magic
 
 _You can ignore this section if your character doesn't have access to magic._
 
+Not every Job can cast Spells, and not all spellcasting Jobs actually
+start the game with the ability to use magic. Characters with a Job
+that has the ability to cast Black, White, Red, or Time Magic begin
+with three Level 1 Spells chosen from the appropriate Spell lists in
+Chapter 8.  
+Due to the non-linear progression of Blue, Spellblade, Summon,
+and Call Magic, characters with access to these schools of
+spellcasting generate their starting Spells in a slightly different
+fashion. Rather than choose a set number of Spells, Blue Mages may
+choose any number of appropriate Spells from the lists given in
+Chapter 8, provided that their combined MP Costs do not exceed the
+character's starting MP value. It is additionally recommended that
+no one Spell in the starting selection cost more than 15 MP.  
+Magic Knights begin with one Element Strike spell and one Status
+Effect spell chosen from the level 1 Spell effects.  
+Summoners begin the game with one Summon – either Valefor,
+Lakshmi, Remora, Ifrit, Ramuh, or Shiva, as per the player’s choice.
+Callers may choose from only Valefor, Lakshmi, or Remora, and
+additionally gain two Level 1 Spells chosen from the appropriate
+Spell lists.
+
+> **Generating a Character (14)**  
+As a Blue Mage, Kumani can select up to 21 MPs' worth of
+Spells from the Blue Magic list. Carl chooses Goblin Punch (1
+MP), Choco Ball (6 MP), Red Feast (6 MP), and Leap (8 MP)
+for a round 21.
+
 ### 10. Inventions
 
 _You can ignore this section if you did not create and engineer._
+
+Characters with the Engineer Job finish character creation by
+assembling a single Invention using the rules in Appendix I. The
+player can use up to 100 Gil worth of Parts without dipping into their
+own pockets; if the final Invention costs more than 100 Gil, the
+difference is paid from the character's starting Gil. Parts used in the
+starting Invention are subject to the same Availability restrictions as
+any other equipment purchased during character creation
 
 ### 11. Traits
 
@@ -385,6 +523,19 @@ If the GM is using the optional rules for Key Points and Traits, Traits
 should be selected relatively early in the character creation process.
 Full rules for doing so can be found in Appendix IV.
 
-## Character Advancement
+### 12. Finishing Touches
 
-### Creating a Character past Level 1
+To speed up gameplay later on, players may want to go through
+their listed Damage Codes and precalculate Spell, Ability and Attack
+damages, making a note of the results on their character sheets.
+> **Generating a Character (15)**  
+Kumani begins the game with three damage equations – that
+of her basic Attack Actions with Leather Gloves, that of
+Chocoball, and that of Leap. The Leather Gloves have a
+Damage Code of (2 x STR) + d6; with an STR of 6, the final
+Damage Code is 12 + d6. Choco Ball and Leap both have
+Damage Codes of (4 x MAG) + d8, M. Armor; plugging in
+Kumani’s MAG of 9 results in a precalculated Damage Code of
+36 + d8, M. Armor. Goblin Punch and Red Feast do not need
+separate calculations – they are a function of Kumani’s basic
+Attack Action damage.

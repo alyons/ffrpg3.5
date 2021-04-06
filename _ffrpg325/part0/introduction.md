@@ -45,3 +45,7 @@ The last concepts around CoS are Botches and Critical Successes (Crits). A task 
 A task is automatically successful if the roll is a result of 1 - 10. In combat this results in a Critical Hit, signifying finding a weak point in the enemies defenses and connecting a decisive blow. In non-combat scenarios, this represents a deft application of skill seeming to defy reality.
 
 With regards to critical successes, if a task has a CoS of 10 or less, it is normally ruled as a skin of the teeth miracle rather than a rousing success. If the CoS is lowered to less than 0 by modifiers, but the player still rolls a Crit it could negate the fall out of taking such an action or at the game master's discresion, even move things more in the party's favor.
+
+## Game Play Notes
+
+I would recommend leveraging Roll20 with the built in character sheet for FFRPG3, otherwise this system can be cumbersome to track and run. While it only has a character sheet and monster sheet, this does a lot to make the game playable.

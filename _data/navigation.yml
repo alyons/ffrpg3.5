@@ -30,6 +30,10 @@ ffrpg325:
     children:
       - title: Character Building Example
         url: /ffrpg325/part1/character-building-example/
+      - title: Advantages and Disadvantages
+        url: /ffrpg325/part1/advantages-disadvantages/
+      - title: Character Advancement
+        url: /ffrpg325/part1/character-advancement/
   #     - title: Races
   #     - title: Basic Classes
   #     - title: Advanced Jobs
