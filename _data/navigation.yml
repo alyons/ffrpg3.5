@@ -1,6 +1,10 @@
 main:
+  - title: "v3"
+    url: /ffrpg3/
   - title: "v3.25"
     url: /ffrpg325/
+  - title: "v3.5"
+    url: /ffrpg350/
   - title: "About"
     url: /about/
 
@@ -35,8 +39,9 @@ ffrpg325:
       - title: Character Advancement
         url: /ffrpg325/part1/character-advancement/
   #     - title: Races
+      - title: Jobs
+        url: /ffrpg325/part1/jobs/
   #     - title: Basic Classes
-  #     - title: Advanced Jobs
   #     - title: Specialty Jobs
   #     - title: Origin
   #     - title: Equipment
@@ -46,10 +51,10 @@ ffrpg325:
   #     - title: Using Attributes and Skills
   #     - title: Adventuring
   #     - title: Combat
-  # - title: "Part 3"
-  #   children:
-  #     - title: Spell Casting
-  #     - title: Spells
+  - title: "Part 3"
+    children:
+      - title: Magic
+        url: /ffrpg325/part3/magic/
   # - title: Appendix
   #   children:
   #     - title: Statuses
@@ -59,3 +64,5 @@ ffrpg325:
   #     - title: Storytelling
   #     - title: Game Sheets
   # - title: Glossary
+  - title: "Part 4"
+    url: 

@@ -31,6 +31,11 @@ for(let l = -1; l < 34; l++) {
   }
 }
 
-rows.forEach(r => {
-  console.log(r);
-});
+// rows.forEach(r => {
+//   console.log(r);
+// });
+
+
+for(let i = 1; i < 100; i += 4) {
+  console.log(i);
+}
