@@ -233,36 +233,57 @@ Effect(s):
 Description: A flurry of high-speed ice particles is launched at the target.
 
 **Fire** - 7 MP  
-Target: Single
-Type: Elemental (Fire)
-Reflect: Yes
-Range: 5
-Area of Effect: 1
-Vertical Reach: 0
+Target: Single  
+Type: Elemental (Fire)  
+Reflect: Yes  
+Range: 5  
+Area of Effect: 1  
+Vertical Reach: 0  
 Effect(s):
 - `(4 x MAG) + d8, M. Armor` Fire Damage `M.Acc, M.Evasion`
 
 Description: A burning sphere of fire rushes towards the target, exploding on
 impact.
 
-POISON 9 MP
-Target: Single Type: Elemental (Bio) R
-Status (Toxin)
-A frothing cloud of sickly violet bubbles swarms over the target with
-suffocating force. Poison inflicts (4 x MAG) + d8, M. Armor Bio
-Elemental damage; in addition, Poison has a CoS of (M. ACC - 50),
-M. Evasion of inflicting the Status Condition Poison (∞).
-SLEEP 5 MP
-Target: Single Type: Status (Seal) R
-Clouds of light mist play around the target as the apparition of a
-moon appears overhead to shower soft starlight upon it. Sleep has a
-CoS of (M. ACC - 50), M. Evasion of inflicting the Status Condition
-Sleep (6).
-THUNDER 7 MP
-Target: Single Type: Elemental (Lightning) R
-A brilliant bolt of lightning tears down from the sky, striking the
-target with barely-contained energy. Thunder inflicts (4 x MAG) +
-d8, M. Armor Lightning Elemental damage.
+**Poison** - 9 MP  
+Target: Single  
+Type: Elemental (Bio), Status (Toxin)  
+Reflect: Yes  
+Range: 5  
+Area of Effect: 1  
+Vertical Reach: 0  
+Effect(s):
+- `(4 x MAG) + d8, M. Armor` Bio Damage `M.Acc, M.Evasion`
+- Poison (∞) `(M. ACC - 50), M. Evasion`
+
+Description: A frothing cloud of sickly violet bubbles swarms over the target with suffocating force.
+
+**Sleep** - 5 MP
+Target: Single  
+Type: Status (Seal)  
+Reflect: Yes  
+Range: 5  
+Area of Effect: 1  
+Vertical Reach: 0  
+Effect(s):
+- Sleep (6) `(M. ACC - 50), M. Evasion`
+
+Description: Clouds of light mist play around the target as the apparition of a
+moon appears overhead to shower soft starlight upon it.
+
+**Thunder** - 7 MP  
+Target: Single  
+Type: Elemental (Lightning)  
+Reflect: Yes  
+Range: 5  
+Area of Effect: 1  
+Vertical Reach: 0  
+Effect(s):
+- `(4 x MAG) + d8, M. Armor` Lightning Damage `M.Acc, M.Evasion`
+
+Description: A brilliant bolt of lightning tears down from the sky, striking the
+target with barely-contained energy.
+
 #### Level 2
 DARk 18 MP
 Target: Single Type: Elemental (Shadow) R
