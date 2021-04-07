@@ -11,14 +11,15 @@ blow, the earth continue to be fertile, the cycle of life and death go
 on. All of the world's inhabitants, whether conscious of it or not,
 have some small part of this force inside them; with training, it can
 be turned into a weapon more powerful than mere blade or brawn,
-more devastating than all but the farthest-reaching technologies.
+more devastating than all but the farthest-reaching technologies.  
 Most worlds contain at least some degree of ‘background magic’
 – enough mana to sustain life on the world itself, but a far cry from
 the sheer amount of free energy needed to fuel true spellcasting.
 The existence of Mages depends heavily on the presence of objects
 that reinforce and amplify this weak level of natural magic to the
 point where it can be actively shaped.
-MAGICITE
+
+### Magicite
 Certain kinds of naturally-occurring crystals have been found to be
 curiously sympathetic to the flow of mana, able to focus, store and
 even amplify natural elemental forces. Such crystals are known as
@@ -30,7 +31,7 @@ instance, would feel unusually warm to the touch, though its
 sorcerous uses are next to nil. Conversely, genuinely titanic magicite
 formations such as the legendary Four Crystals are magical
 reservoirs without peer, capable of raising and destroying nations
-with equal ease.
+with equal ease.  
 Magicite can be used for any number of purposes, ranging from
 powering machinery to enriching soil. Most magically-empowered
 equipment is constructed by binding the rush of energy freed by the
@@ -38,7 +39,8 @@ destruction of magicite fragments into the item during the creation
 process; more powerful arms and armor may be made of pure
 magicite crystals, and are capable of absorbing and channeling
 significant amounts of magical power.
-BATTLE ITEMS
+
+### Battle Items
 Almost all creatures have some amount of magicite in their bodies,
 allowing them to channel mana for their own uses. Upon death, part
 of the magical energy that has passed through the creature may
@@ -48,7 +50,8 @@ Battle Item. Such ‘frozen’ magic is typically more common in the
 remains of creatures of arcane origin, such as Bombs; virtually any
 fragment of their bodies can be used to unleash a small spark of
 offensive spellcasting in the right hands.
-ECOLOGIES OF MAGIC
+
+### Ecologies of Magic
 Even as it sustains life, magic in turn creates its own ecology,
 ranging in scale from animal-like nature spirits to the primitive
 elementals, creatures 'birthed' by large masses of elemental energy
@@ -57,7 +60,7 @@ pole are the Summons, known by a million and one names
 throughout the universe; such creatures typically dwell on planes of
 pure power connected to a world by only the most tenuous of links,
 drawn into material existence by the persuasive talents of Caller and
-Summoner alike.
+Summoner alike.  
 The environment, too, interacts with raw flows of magic,
 resonating where the elements are most sympathetic. The heat of a
 volcano, for instance, can tie together many streams of Fire
@@ -68,7 +71,8 @@ torrential rainfall leads to the accumulation of Water Elemental
 power. For those who rely on the might of the elements, careful
 consideration of one’s surroundings is an important factor in
 effectively shaping these energies.
-SPELLCASTERS
+
+### Spellcasters
 Active wielders of magical power vary wildly in shape and scope.
 With sufficient training and physical discipline, warriors can channel
 elemental flows into their techniques; to them, this force is known as
@@ -77,7 +81,7 @@ applications are rigid, depending as much on the warrior’s physical
 prowess as on their awareness of the magical basis underlying
 them. A true Mage can actively twist and focus raw flows of magic
 into physical, visible forms; dark mists, freezing gales, howling
-storms, and scorching waves of fire.
+storms, and scorching waves of fire.  
 The spellcasting procedure itself depends on the power and
 experience of the mage in question. Beginners rely heavily on subvocalized
 incantations to focus the power necessary to unleash their
@@ -88,7 +92,7 @@ as 'Cura!' – or a more grandiose command, such as "Star fire,
 awaken and deliver your judgment! Firaga!” However, it should be
 noted that such pronouncements are usually delivered more for
 intimidation value than actual practicality; in both cases, the results
-are the same.
+are the same.  
 Casting magic also has a visual aspect, as mana drawn by casters
 from the immediate environment solidifies into motes of light just
 before entering the caster's body. How noticeable this is depends on
@@ -97,7 +101,7 @@ the Spell; particularly adept magicians can disguise these 'mana
 signatures' to make even high-intensity spellcasting effectively
 invisible.
 
-THE ELEMENTS OF MAGIC
+### The Elements of Magic
 The classification of magic has occupied scholars for centuries. Even
 to this day, the finer details of magical taxonomy can be fuel for
 considerable debate. Certain aspects, however, are considered to be
@@ -105,7 +109,7 @@ universally agreed on. Among them is the fact that mana is the basic
 building-block of magic; though further diversified and refined, raw
 mana can be used to drive a wide variety of helpful and harmful
 effects. From here, all magic can be broadly broken up into three
-major groups of forces – Elemental, Cosmic and Life.
+major groups of forces – Elemental, Cosmic and Life.  
 The Elemental forces are sometimes also called ‘natural forces’,
 deriving that designation from the fact that they are inextricably tied
 to natural phenomena. The most common of these involve the four
@@ -118,7 +122,7 @@ are not considered elements at all, and simply excised from the
 reckoning. The collective grouping of these nine – Earth, Fire, Air,
 Water, Lightning, Ice, Bio, Holy and Shadow – is referred to as the
 Combat Elements; spells focusing their power are intended for harm
-and destruction more often than not.
+and destruction more often than not.  
 Outside the domain of the elements is the force of Cosmos; its
 components are Time and Gravity, the distortion of which forms the
 basis of the Time Mage’s curious powers. In many cases, the end
@@ -126,7 +130,7 @@ result is a roundabout way of accomplishing what elemental magic
 will easily do in skilled hands; rather than launch a fireball, a Time
 Mage will twist the forces of Time and pluck a comet shower from
 distant antiquity just long enough to bombard their opponents into
-submission.
+submission.  
 The final component of the magical spectrum is another
 overarching force, Life, given power by the cycle of birth and death
 and the migration of souls. Though not inherently a magical thing, its
@@ -134,64 +138,88 @@ interactions with raw magic have allowed White Mages and other
 practitioners of healing to use it in the same fashion as its wilder
 elemental counterparts. As a result, its inclusion remains a point of
 contention.
-SPELL CLASSIFICATIONS
+
+## Spell Classifications
 For the sake of clarifying effects and offering an organizational
 thread to tie various Spells together, each Spell belongs to a
 distinctive category.
-ELEMENTAL MAGIC
+
+### Elemental Magic
 Elemental Magic is a term used to describe any Spell that deals
 damage associated with one of the nine Combat Elements.
-ARCANE MAGIC
+
+### Arcane Magic
 Any Spell that directly deals damage to an opponent but is not
 affiliated with a Combat Elements belongs to the category of Arcane
 Magic. Arcane Magic can deal either Physical or Magical damage;
 which of the two is noted in the 'Type' field.
-RECOVERY MAGIC
+
+### Recovery Magic
 Recovery Magic describes any Spell that recovers HP or MP to a
 target – usually the caster, or one of the caster's allies – or removes
 negative Status Conditions. Recovery Magic can have unexpected
 effects on Undead monsters – and combatants afflicted with the
 Status Condition Zombie.
-STATUS MAGIC
+
+### Status Magic
 Any Spell that inflicts one or more Status Conditions as a result of its
 casting, beneficial or otherwise, is known as Status Magic. For the
 sake of calculating Immunities, these Spells are divided into seven
 categories – Mystify, Toxin, Seal, Time, Transform, Fatal, and Weak –
 based on the Status Conditions they inflict. There are also two
 positive Status Categories, Barrier and Strengthen.
-SUPPORT MAGIC
+
+### Support Magic
 Support Magic covers Spells that do not have a direct effect on
 either the caster, the caster’s allies, or their opponents. The Spell
 Sight, which allows a White Mage to get an overview of an area, is a
 prime example of this kind of magic.
-SPELLBLADE MAGIC
+
+### Spellblade Magic
 Spellblade Magic is the specialized category of magic used by Magic
 Knights and their ilk. Rather than directly affecting opponents, such
 Spells instead use the caster’s weapon as a conduit.
 
-FORMAT
+## Spell List
+
+#### Format
 The Spell listings over the remainder of the Chapter are set out as
-follows:
+follows:  
 The first thing listed is the Spell's casting name. Due to differences
 in translation between Final Fantasy games, players may know some
 of these by alternate names – Blizzara, for instance, is occasionally
 called Ice 2. To avoid creating confusion, only one name is given for
-each Spell.
+each Spell.  
 The MP Cost is given to the right of the spell’s name, and lists the
 number of Magic Points required to cast the Spell. Casting cost is
 subtracted from the Mage's current MP when the Spell is cast.
-Target shows which combatants the Spell affects.
+Target shows which combatants the Spell affects.  
 Type indicates which Spell Category that particular Spell falls
-under, used for the purposes of calculating Immunities.
+under, used for the purposes of calculating Immunities.  
 The R or NR indicate whether a Spell is affected by the Status
-Condition Reflect (R) or not (NR).
+Condition Reflect (R) or not (NR).  
 Prerequisite lists which other Spells the Mage must have learned
 in order to be able to obtain this particular Spell, where applicable.
-BLACK MAGIC
+
+### Black Magic
 Black is the color of destruction. Practitioners of Black Magic have
 mastered control of the elements, shaping these into any number of
 offensive devices.
-Level 1
+
+#### Level 1
+
+**Blind** - 5 MP  
+Target: Single  
+Type: Status (Seal)  
+Reflect: Yes  
+Range: 5  
+Area of Effect: 1
+Vertical Reach: 0
+Effect(s):
+- Blind (6) `(M.Acc - 50), M.Evasion`
+
+Description: A blinding cloud of thick black fog surrounds the target, robbing it of all senses.
+
 BLIND 5 MP
 Target: Single Type: Status (Seal) R
 A blinding cloud of thick black fog surrounds the target, robbing it of
@@ -224,7 +252,7 @@ Target: Single Type: Elemental (Lightning) R
 A brilliant bolt of lightning tears down from the sky, striking the
 target with barely-contained energy. Thunder inflicts (4 x MAG) +
 d8, M. Armor Lightning Elemental damage.
-Level 2
+#### Level 2
 DARk 18 MP
 Target: Single Type: Elemental (Shadow) R
 A sphere of utter blackness launches at the target, dissipating into a
@@ -255,7 +283,7 @@ Water begins to filter out of the air, forming a solid ball around the
 target that lifts it off the ground before bursting in a shower of
 liquid. Water inflicts (8 x MAG) + 2d8, M. Armor Water Elemental
 damage.
-Level 3
+#### Level 3
 BLIZZARA 22 MP
 Target: Single/Group Type: Elemental (Ice) R
 The air around the target condenses to freezing point in an instant,
@@ -285,7 +313,7 @@ Target: Single Type: Status (Transform) R
 The target disappears, swallowed by a wave of miasmic green
 smoke seeking to steal away its life force. Zombie has a CoS of (M.
 ACC - 50), M. Evasion of inflicting the Status Condition Zombie (6).
-Level 4
+#### Level 4
 BIo 44 MP
 Target: Single/Group Type: Elemental (Bio) R
 Status (Toxin)
@@ -330,7 +358,7 @@ The ground buckles and cracks as a column of water erupts,
 violently immersing all targets before dispersing again. Watera
 inflicts (15 x MAG) + 4d8, M. Armor Water Elemental damage.
 Prerequisite: Water
-Level 5
+#### Level 5
 BLIZZAGA 60 MP
 Target: Single/Group Type: Elemental (Ice) R
 Particles of frost and snow accelerate towards the target, rapidly
@@ -371,7 +399,7 @@ sizzling sphere of electrical energy before dissipating again.
 Thundaga inflicts (18 x MAG) + 5d8, M. Armor Lightning Elemental
 damage.
 Prerequisite: Thundara
-Level 6
+#### Level 6
 DEATH 80 MP
 Target: Single Type: Status (Fatal) R
 A decaying, hooded figure emerges from the ground in a cloud of
@@ -410,7 +438,7 @@ enclosing them in an immense liquid dome before dissolving into a
 foaming tidal wave. Waterga inflicts (21 x MAG) + 5d8, M. Armor
 Water Elemental damage.
 Prerequisite: Watera
-Level 7
+#### Level 7
 FREEZE 115 MP
 Target: Single Type: Elemental (Ice) R
 Status (Fatal)
@@ -451,7 +479,7 @@ MAG) + 4d10, M. Armor Bio Elemental damage. In addition, it has a
 CoS of (M. ACC - 50), M. Evasion of inflicting the Status Condition
 Venom (4) – roll separately for each eligible combatant.
 Prerequisite: Bio
-Level 8
+#### Level 8
 BREAK 150 MP
 Target: Single Type: Elemental (Earth) R
 Status (Special)
@@ -506,7 +534,7 @@ The power of White is that of life itself. As a foil to the destructive
 excesses of Black Magic, White Magic heals where Black injures,
 protects where Black weakens. White Mages are restricted in terms
 of direct offense, but their support ability is second to none.
-Level 1
+#### Level 1
 AERO 7 MP
 Target: Single Type: Elemental (Wind) R
 A vicious gust of wind assails the target, tearing into it with razorsharp
@@ -548,7 +576,7 @@ area of (1000 x MAG) square meters, centered upon the caster, as
 if viewing it from the air. This vision overrides the caster’s normal
 senses; they will not be able to see from their ‘own’ eyes until they
 voluntarily elect to dispel Sight.
-Level 2
+#### Level 2
 BERSERK 12 MP
 Target: Single Type: Status (Mystify) R
 Wavering streams of red energy assail the target, driving its primal
@@ -575,7 +603,7 @@ Target: Single Type: Recovery R
 Needles of rainbow light stab into the target, showering dust as
 stone cracks and splinters under the onslaught. Stona cancels the
 Status Conditions Stone and Petrify.
-Level 3
+#### Level 3
 AERa 22 MP
 Target: Single/Group Type: Elemental (Air) R
 Howling green winds encircle the target, drawing together in an
@@ -616,7 +644,7 @@ A shining sigil appears under the target amidst a flurry of yellow
 lights, flashing white before fading away again. Silence has a CoS of
 (M. ACC - 50), M. Evasion of inflicting the Status Condition Silence
 (6).
-Level 4
+#### Level 4
 BASUNA 36 MP
 Target: Single Type: Recovery R
 A gentle mist of green and gold blows over the target, canceling the
@@ -653,7 +681,7 @@ SHELL 35 MP
 Target: Single Type: Status (Barrier) R
 Twelve pearls of softly-glowing light enclose the target in twinned
 hexagons, adding the Status Condition Shell (6).
-Level 5
+#### Level 5
 AERaGA 60 MP
 Target: Single/Group Type: Elemental (Wind) R
 Lashing tendrils of wind wrap around the targets, forming a howling
@@ -692,7 +720,7 @@ Borne by miniature cherubs, a single spark of golden light drifts
 down towards the target, glowing softly as it settles on its
 destination. In a radiant burst of light, spark and cherubim fade
 away, granting the Status Condition Reraise (∞).
-Level 6
+#### Level 6
 ABSORB 80 MP
 Target: Party Type: Status (Strengthen) R
 Thick, muddy bubbles of spell energy splash over the party, glowing
@@ -733,7 +761,7 @@ Four ghostly mirrors with surfaces like mercury flash into existence
 around the target, rapidly spinning until they – and the target –
 disappear, granting the Status Condition Vanish (4).
 Prerequisite: Ruse
-Level 7
+#### Level 7
 ARISE 100 MP
 Target: Single Type: Recovery NR
 Glowing particles of light shower down on the target, raising up a
@@ -782,7 +810,7 @@ Spell. Additional castings of Weaken may add additional Elements;
 casting Weaken for an Element the target already has a Weakness
 towards, however, will not produce any additional effect.
 Prerequisite: Null Element
-Level 8
+#### Level 8
 HOLY 150 MP
 Target: Single Type: Elemental (Holy) R
 Motes of brilliant blue light begin to circle the target, moving in a
@@ -828,7 +856,7 @@ TIME MAGIC
 Sometimes referred to as 'Cosmic Magic' or 'Effect Magic', Time
 Magic derives its power from the manipulation and distortion of both
 space and time.
-Level 1
+#### Level 1
 Burn Ray 7 MP
 Target: Single Type: Arcane (Magical) R
 The air around the target condenses, compressing into a tight ball
@@ -867,7 +895,7 @@ A series of gray circles spiral around the target’s legs or equivalent
 anatomy, briefly flaring up before disappearing once again. Yawn has
 a CoS of (M. ACC - 50), M. Evasion of inflicting the Status Condition
 Agility Down (6).
-Level 2
+#### Level 2
 FLOAT 15 MP
 Target: Party Type: Status (Strengthen) R
 Shining motes sparkle around the caster's allies as they are buoyed
@@ -894,7 +922,7 @@ Target: Single Type: Status (Strengthen) R
 Expanding circles of glowing red energy surround the target,
 speeding reaction time and impulses to grant the Status Condition
 Agility Up (6).
-Level 3
+#### Level 3
 IMMOBILIZE 20 MP
 Target: Single Type: Status (Time) R
 The target is encased in a bubble of reddish-orange light, freezing
@@ -938,7 +966,7 @@ the Party one level up or down; if used in combat, a successful
 casting of Teleport has effects equal to a successful Escape Action
 for all Party members.
 Prerequisite: Escape
-Level 4
+#### Level 4
 COMET 44 MP
 Target: Special Type: Arcane (Magical) R
 The caster reaches towards the heavens, pulling a comet out of time
@@ -979,7 +1007,7 @@ as it slows down by the second. Slowga has a CoS of (M. ACC - 50),
 M. Evasion of afflicting all eligible targets with the Status Condition
 Slow (6).
 Prerequisite: Slow
-Level 5
+#### Level 5
 DISABLE 50 MP
 Target: Single Type: Status (Time) R
 The target is encased in a bubble of turquoise light, freezing time for
@@ -1016,7 +1044,7 @@ Target: Single Type: Status (Time) R
 Hazy lights encircle the target as wavers and fades, body suddenly
 out of synch with time around it. Time Slip has a CoS of (M. ACC -
 50), M. Evasion of inflicting the Status Condition Sap (6).
-Level 6
+#### Level 6
 HASTEGA 80 MP
 Target: Party Type: Status (Strengthen) R
 A glowing red clock materializes below the caster’s allies, hands
@@ -1059,7 +1087,7 @@ shattering. The glittering debris hovers in mid-air for a moment,
 drawing the lines of an ethereal clock face before winking out of
 existence. Temporal Shift cancels all Time-type Status Conditions
 currently active on the battlefield, negative or otherwise.
-Level 7
+#### Level 7
 WarP 100 MP
 Target: Party Type: Support NR
 Energy ripples around the caster and their allies as they wink out of
@@ -1114,7 +1142,7 @@ Dimensions, a space outside the realm of human comprehension;
 roll separately for each target. Anything targeted by the Spell may
 voluntarily choose to travel to the Cleft; if so, no roll is necessary.
 Prerequisite: Remove
-Level 8
+#### Level 8
 BLACK HOLE 150 MP
 Target: Single Type: Status (Fatal) NR
 A spinning vortex of gravitational energy forms above the battlefield,
