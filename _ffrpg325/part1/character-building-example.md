@@ -70,7 +70,7 @@ character's general posture and expression give others?
 Given that there's only one 'fighter-type' in Rodger’s group,
 Carl’s decides a Mithra martial artist would be a good addition
 to the party. With Rodger in favor, Carl begins building his
-heroine in earnest.
+heroine in earnest.  
 **Name:** The Mithra naming notes suggest that Mithra
 characters will have names with a Thai or Indonesian flavor.
 Carl chooses to name his character Kumani Bersihdarah.  
