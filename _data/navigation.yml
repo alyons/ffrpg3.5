@@ -40,6 +40,18 @@ ffrpg325:
     children:
       - title: Magic
         url: /ffrpg325/part3/magic/
+      - title: Black Magic Spell List
+        url: /ffrpg325/part3/magic/black/
+      - title: White Magic Spell List
+        url: /ffrpg325/part3/magic/white/
+      - title: Time Magic
+        url: /ffrpg325/part3/magic/time/
+      - title: Blue Magic
+        url: /ffrpg325/part3/magic/blue/
+      - title: Spellblade Magic
+        url: /ffrpg325/part3/magic/spellblade/
+      - title: Intuitive Magic Rules
+        url: /ffrpg325/part3/magic/intuitive/
   # - title: Appendix
   #   children:
   #     - title: Statuses
