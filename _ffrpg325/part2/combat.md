@@ -12,7 +12,8 @@ itself is divided into an overview of some fundamental principles not
 covered in Chapter 1, followed by an examination of how the three
 Phases work in combat. Following this is an overview of some
 special situations in FFRPG combat.
-THE BASICS OF COMBAT
+
+## THE BASICS OF COMBAT
 Battles within the FFRPG are structured in a relatively
 straightforward manner. The following rules are common to every
 fight, regardless of scale.

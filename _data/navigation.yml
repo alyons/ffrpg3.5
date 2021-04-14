@@ -23,21 +23,26 @@ ffrpg325:
         url: /ffrpg325/part1/advantages-disadvantages/
       - title: Character Advancement
         url: /ffrpg325/part1/character-advancement/
-  #     - title: Races
+      - title: Races
+        url: /ffrpg325/part1/races/
       - title: Jobs
         url: /ffrpg325/part1/jobs/
+      - title: Skills
+        url: /ffrpg325/part1/skills/
   #     - title: Basic Classes
   #     - title: Specialty Jobs
   #     - title: Origin
-  #     - title: Equipment
-  #     - title: Advantages and Disadvantages
-  - title: "Part 2"
+      - title: Equipment
+        url: /ffrpg325/part1/equipment/
+      - title: Advantages and Disadvantages
+        url: /ffrpg325/part1/advantages-disadvantages/
+  - title: "Part 2 - Playing the Game"
     children:
-  #     - title: Using Attributes and Skills
-  #     - title: Adventuring
+      - title: Adventuring
+        url: /ffrpg325/part2/adventuring/
       - title: Combat
         url: /ffrpg325/part2/combat/
-  - title: "Part 3"
+  - title: "Part 3 - Magic"
     children:
       - title: Magic
         url: /ffrpg325/part3/magic/
