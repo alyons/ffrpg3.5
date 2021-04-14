@@ -29,6 +29,9 @@ ffrpg325:
         url: /ffrpg325/part1/jobs/
       - title: Skills
         url: /ffrpg325/part1/skills/
+  #     - title: Basic Classes
+  #     - title: Specialty Jobs
+  #     - title: Origin
       - title: Equipment
         url: /ffrpg325/part1/equipment/
       - title: Advantages and Disadvantages
@@ -59,7 +62,14 @@ ffrpg325:
       children:
       - title: Statuses
         url: /ffrpg325/appendicies/statuses/
-  - title: "Part 4"
+  #     - title: Skills Expanded
+  #     - title: Monster Creation System
+  #     - title: Summoning
+  #     - title: Storytelling
+  #     - title: Game Sheets
+  # - title: Glossary
+  # - title: "Part 4"
+  #   url: 
 
 ffrpg350:
   - title: "Part 0"
