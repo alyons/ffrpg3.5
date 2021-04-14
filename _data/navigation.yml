@@ -55,10 +55,12 @@ ffrpg325:
         url: /ffrpg325/part3/magic/spellblade/
       - title: Intuitive Magic Rules
         url: /ffrpg325/part3/magic/intuitive/
-  # - title: Appendicies
-  #     children:
-  #     - title: Statuses
-  #       url: /ffrpg325/appendicies/statuses/
+  - title: "Appendicies"
+    children:
+      - title: Statuses
+        url: /ffrpg325/appendicies/statuses/
+      - title: Glossary
+        url: /ffrpg325/appendicies/glossary/
 
 ffrpg350:
   - title: "Part 0"

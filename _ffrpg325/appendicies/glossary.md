@@ -1,5 +1,5 @@
 ---
-permalink: /ffrpg325/glossary/
+permalink: /ffrpg325/appendicies/glossary/
 title: "Glossary"
 ---
 
