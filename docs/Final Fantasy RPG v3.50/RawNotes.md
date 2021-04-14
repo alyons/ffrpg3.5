@@ -21,6 +21,9 @@ How do we achieve multi-classing?
 - You can have one Support ability from any class or job you have leveled
 - You can have one Reaction ability from any class or job you have leveled
 
+- [ ] Combat System
+  - Lower Damage Formulas
+
 Magic
 - Design Level 3/4 of skills first, push silliness, make lower levels lesser effects
 - Magic Die is simply d10, more or less MP
@@ -35,6 +38,13 @@ Magic
 - Black Magic -> Fire, Ice, Thunder, Darkness
 - White Magic -> Air, Earth, Water, Holy
 - Time Magic -> Arcane, Time, Space
+- Different effects to Elemental Magic(?)
+  - Thunder -> Stun
+  - Blizzard -> Slow
+  - Fire -> Bigger AoE
+  - Aero -> Bonus Dmg to Enemies with Float or who are flying
+  - Reflect should be instant cast (at least for Time Mage)
+  - White Magic does the same damage as Black Magic
 
 ## Statuses
 

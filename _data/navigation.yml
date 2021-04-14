@@ -31,11 +31,12 @@ ffrpg325:
   #     - title: Origin
   #     - title: Equipment
   #     - title: Advantages and Disadvantages
-  # - title: "Part 2"
-  #   children:
+  - title: "Part 2"
+    children:
   #     - title: Using Attributes and Skills
   #     - title: Adventuring
-  #     - title: Combat
+      - title: Combat
+        url: /ffrpg325/part2/combat/
   - title: "Part 3"
     children:
       - title: Magic
@@ -52,9 +53,10 @@ ffrpg325:
         url: /ffrpg325/part3/magic/spellblade/
       - title: Intuitive Magic Rules
         url: /ffrpg325/part3/magic/intuitive/
-  # - title: Appendix
-  #   children:
-  #     - title: Statuses
+  - title: Appendicies
+      children:
+      - title: Statuses
+        url: /ffrpg325/appendicies/statuses/
   #     - title: Skills Expanded
   #     - title: Monster Creation System
   #     - title: Summoning

@@ -16,7 +16,7 @@ This spawned a conversation with a friend of mine, and he pointed out how much t
 
 ## Okay, then what would change in each version?
 
-### Final Fantasy RPG 3.5
+### Final Fantasy RPG 3.25
 - Better website for easier time navigating and finding information.
 - Update the wording to be more clear for certain sections.
 - Reworks to most non-Mage classes
@@ -26,7 +26,7 @@ This spawned a conversation with a friend of mine, and he pointed out how much t
 - Integrate the Battle Grid as default rules with slight tweak
 - Monster Maker Website with Bestiary
 
-### Final Fantasy RPG 5
+### Final Fantasy RPG 3.50
 - Basis of System is Choices
   - 12 Basic Classes that combine into ?? Advanced Jobs
   - Offensive Magic will have additional effects

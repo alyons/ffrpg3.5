@@ -19,6 +19,7 @@ Part 1 - Building a Character
 Part 2 - Playing the Game  
 Part 3 - Magic and Spellcasting  
 Part 4 - For the Game Master  
+Part 5 - Appendix  
 
 ## How to Play
 

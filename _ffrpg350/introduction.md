@@ -7,6 +7,11 @@ This is a catch all for all of the notes before we finish building and organizin
 
 What if we built a system more based on customization and choice?
 
+What is our random number generator engine?
+- d10
+- d20
+- d%
+
 What grants a player choice?
 - Multi-classing
 - Feats

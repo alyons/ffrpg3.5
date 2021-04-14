@@ -49,7 +49,6 @@ White Mage
 Dragoon - Fighter/Knight
 Spellblade - Fencer/Black Mage
 Samurai - Fencer/Monk
-Sword Master - Fencer/Fighter
 Bard - Mediator/White Mage
 Dancer - Mediator/Black Mage
 Elementalist - Fencer/Geomancer
@@ -66,4 +65,6 @@ Paladin - White Mage/Knight
 Rune Knight - Time Mage/Knight
 Magic Knight - Geomancer/Knight
 Sniper - Archer/Thief
-Hunter - Archer/Chemist
+Ranger - Fencer/Archer
+
+Sword Master - Fencer/Fighter
