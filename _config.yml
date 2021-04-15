@@ -33,7 +33,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _ffrpg325
-  - _ffrpg325/part1/jobs
   - _ffrpg350
   - _pages
 
