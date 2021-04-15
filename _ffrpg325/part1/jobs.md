@@ -54,14 +54,14 @@ limited to a single Weapon at a time. If the character has more
 than one Weapon equipped, decide which one to use.
 
 ## Warrior Jobs
-- [Monk](/ffrpg325/part1/jobs/monk/)
+- [Monk](/ffrpg3.5/ffrpg325/part1/jobs/monk/)
 
 ## Expert Jobs
-- [Engineer](/ffrpg325/part1/jobs/engineer/)
+- [Engineer](/ffrpg3.5/ffrpg325/part1/jobs/engineer/)
 
 ## Mage Jobs
-- [Black Mage](/ffrpg325/part1/jobs/black-mage/)
-- [White Caller](/ffrpg325/part1/jobs/white-caller/)
+- [Black Mage](/ffrpg3.5/ffrpg325/part1/jobs/black-mage/)
+- [White Caller](/ffrpg3.5/ffrpg325/part1/jobs/white-caller/)
 
 ## Adept Jobs
-- [Dark Knight](/ffrpg325/part1/jobs/dark-knight/)
+- [Dark Knight](/ffrpg3.5/ffrpg325/part1/jobs/dark-knight/)

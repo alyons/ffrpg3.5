@@ -189,7 +189,7 @@ Black is the color of destruction. Practitioners of Black Magic have
 mastered control of the elements, shaping these into any number of
 offensive devices.
 
-[Black Magic Spell List](/ffrpg325/part3/magic/black/)
+[Black Magic Spell List](/ffrpg3.5/ffrpg325/part3/magic/black/)
 
 ### White Magic
 
@@ -198,7 +198,7 @@ excesses of Black Magic, White Magic heals where Black injures,
 protects where Black weakens. White Mages are restricted in terms
 of direct offense, but their support ability is second to none.
 
-[White Magic Spell List](/ffrpg325/part3/magic/white/)
+[White Magic Spell List](/ffrpg3.5/ffrpg325/part3/magic/white/)
 
 ### Time Magic
 
@@ -206,7 +206,7 @@ Sometimes referred to as 'Cosmic Magic' or 'Effect Magic', Time
 Magic derives its power from the manipulation and distortion of both
 space and time.
 
-[Time Magic Spell List](/ffrpg325/part3/magic/time/)
+[Time Magic Spell List](/ffrpg3.5/ffrpg325/part3/magic/time/)
 
 ### Red Magic
 
@@ -239,7 +239,7 @@ and other creatures of magical origin practice their own unique
 brand of innate spellcraft, unleashing devastating magical energies
 almost as a reflex.
 
-[Blue Magic Spell List](/ffrpg325/part3/magic/blue/)
+[Blue Magic Spell List](/ffrpg3.5/ffrpg325/part3/magic/blue/)
 
 ### Spellblade Magic
 
@@ -250,7 +250,7 @@ conduit allows such spells to be cast with relative ease when
 compared to their ‘pure’ counterparts, a considerable amount of
 weapons skill is required to maximize this advantage.
 
-[Spellblade Magic Spell List](/ffrpg325/part3/magic/spellblade/)
+[Spellblade Magic Spell List](/ffrpg3.5/ffrpg325/part3/magic/spellblade/)
 
 ### Intuitive Magic
 
@@ -261,4 +261,4 @@ contrary, by drawing on their experience, veteran casters can create
 all manner of cantrips, illusions, and other sorcerous miscellanea. In
 the FFRPG, such magic is known as Intuitive Magic.
 
-[Intuitive Magic Rules](/ffrpg325/part3/magic/intuitive/)
+[Intuitive Magic Rules](/ffrpg3.5/ffrpg325/part3/magic/intuitive/)

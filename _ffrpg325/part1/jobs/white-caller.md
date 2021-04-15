@@ -36,6 +36,7 @@ Target: Varies Type: Magic Ability
 White Callers have the ability to cast White Spells from the lists in
 Chapter 8 in battle. They begin with two Level 1 Spells at Level 1,
 with additional Spells gained roughly every 3 Levels.
+
 | SPELL LEVEL | NEW SPELL GAINED AT LEVELS |
 |-------------|----------------------------|
 |White 1 | 3, 6, 9|
@@ -44,6 +45,8 @@ with additional Spells gained roughly every 3 Levels.
 |White 4 | 31, 33, 36, 39|
 |White 5 | 41, 43, 46, 49|
 |White 6 | 51, 53, 56, 59|
+
+[White Magic Spell List](/ffrpg3.5/ffrpg325/part3/magic/white/)
 
 #### Intuitive Magic
 **Level:** 1  

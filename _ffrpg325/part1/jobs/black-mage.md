@@ -51,6 +51,8 @@ with additional Spells gained every 2 Levels.
 |Black 7 | 49, 51, 53, 55 |
 |Black 8 | 57, 59, 61, 63 |
 
+[Black Magic Spell List](/ffrpg3.5/ffrpg325/part3/magic/black/)
+
 #### Intuitive Magic 
 **Level:** 1  
 **Target:** Varies  
