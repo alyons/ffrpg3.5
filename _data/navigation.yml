@@ -59,6 +59,8 @@ ffrpg325:
     children:
       - title: Statuses
         url: /ffrpg325/appendicies/statuses/
+      - title: Monster Creation System
+        url: /ffrpg325/appendicies/monster-creation-system/
       - title: Glossary
         url: /ffrpg325/appendicies/glossary/
 

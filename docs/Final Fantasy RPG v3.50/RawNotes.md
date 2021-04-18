@@ -46,6 +46,28 @@ Magic
   - Reflect should be instant cast (at least for Time Mage)
   - White Magic does the same damage as Black Magic
 
+Skills
+- Have meaningful choices
+- Built in cost boost
+- Simple to understand
+- Integrate Stats (?)
+- Simplify Language
+  - Grant X languages to each PC
+  - Advantage + Langauge
+  - Disadvantage - Language
+  - Use X skill points to gain a new Language
+- Knowledge Base
+  - Provide Base Set of Knowledge skills and template for creating skill set
+  - Use Background/Origin for modifiers
+- Skill Ranks (?)
+  - Novice
+  - Journeyman
+  - Expert
+  - Master
+  - Legendary
+
+
+
 ## Statuses
 
 ### Fatal
