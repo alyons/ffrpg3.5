@@ -515,7 +515,7 @@ relevant modifiers.
 
 |BASE|EXAMPLE|XP MODIFIER|GIL MODIFIER|
 |:-:|:-:|:-:|:-:|
-|---|Leaf Bunny|0|0|
+| - |Leaf Bunny|0|0|
 |0.5|Goblin|+8|+3|
 |1|Black Mage|+15|+7|
 |1.5|Dark Force|+22|+10|
@@ -695,7 +695,7 @@ see below for more details.
 
 |XP MODIFIER|GIL MODIFIER|
 |:-:|:-:|
-|---|---|
+| - | - |
 
 ### DETERMINE TARGET
 Now determine the attack's target by selecting the appropriate
@@ -704,12 +704,14 @@ the attack's basic XP and Gil costs.
 
 #### Single
 Effect: The attack can only target a single combatant.
+
 |XP MODIFIER|GIL MODIFIER|
 |:-:|:-:|
-|---|---|
+| - | - |
 
 #### Group
 Effect: The attack can target a Group of combatants.
+
 |XP MODIFIER|GIL MODIFIER|
 |:-:|:-:|
 |x2|x2|
