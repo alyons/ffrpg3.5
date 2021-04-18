@@ -834,15 +834,18 @@ successful.
 |50%|+11|+3|
 |75%|+21|+6|
 
-Delay Touch
+#### Delay Touch
 Effect: The attack has a CoS of 30% of reducing the target's
 Initiative by a certain amount. XP and Gil values are determined by
 how much the target's Initiative is reduced by if Delay Touch is
 successful.
-INITIATIVE LOST XP MODIFIER GIL MODIFIER
-25% +3 +2
-50% +8 +2
-75% +16 +5
+
+|INITIATIVE LOST|XP MODIFIER|GIL MODIFIER|
+|-|-|-|
+|25%|+3 |+2|
+|50% |+8 |+2|
+|75% |+16| +5|
+
 Dispel Attack
 Effect: The attack has a limited CoS of removing all Enhance and
 Barrier-type Status Conditions save Shield from the target. This CoS
