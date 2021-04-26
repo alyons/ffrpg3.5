@@ -1,8 +1,6 @@
 main:
   - title: "v3"
     url: /ffrpg3/
-  - title: "v3.25"
-    url: /ffrpg325/
   - title: "v3.5"
     url: /ffrpg350/
   - title: "About"
@@ -66,4 +64,12 @@ ffrpg325:
 
 ffrpg350:
   - title: "Part 0"
-    url: /ffrpg350/
+    children:
+      - title: "Prelude"
+        url: /ffrpg350/part0/prelude/
+      - title: "Introduction"
+        url: /ffrpg350/
+  - title: "Part 1 - Building Your Character"
+    children:
+    - title: "Classes and Jobs"
+      url: /ffrpg350/part1/classes-jobs/

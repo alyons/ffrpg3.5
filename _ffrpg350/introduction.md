@@ -1,5 +1,5 @@
 ---
-permalink: /ffrpg350/
+permalink: /ffrpg350/introduction/
 title: "Introduction"
 ---
 

@@ -118,7 +118,7 @@ Chakra - Heal HP
 Revive - Revive fallen ally with 25% HP
 Exorcise - Destroy Zombies (Element: Holy)
 Holy Sign - Neutralize status enhancements
-Reflex - Dodge all  regular attacks
+Reflex - Dodge all regular attacks
 Counter - Take a standard attack against damage from melee range opponent
 Aurablast - Damage in small AoE at range (Range: 4)
 

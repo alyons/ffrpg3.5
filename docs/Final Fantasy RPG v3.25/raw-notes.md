@@ -7,6 +7,7 @@
 - [ ] Attribute/Stat Rework
   - Dexterity & Mind are bad, just Accuracy & M.Acc - 50
   - M.Acc Formula: `MAG * 2 + Job Acc + Wpn Skill`
+  - M.Eva Formula: `AGI + SPR`
 - [ ] Skill Rework
   - Do we bother?
   - How to lessen the points to distribute

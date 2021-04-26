@@ -17,6 +17,16 @@ Adept Classes are specialized classes that have a specific skill set that do not
 Fencer
 
 Fighter
+- Tremor - AoE Knock Down
+- Snooze - Self Sleep (4) - Restore HP and cure some status effects
+- Meltdown - Self K.O. - Dmg = HP Lost
+- Cleave - Strike two near by opponents
+- Wild Rush - Hit Every adjacent square
+- Beatdown - Low Accuracy, High Damage
+- Blitz - Low Damage, High Accuracy
+- Weapon Swap - Switch Weapons once per turn
+- Counter - Counter any damaging ability within weapon range
+- Bull Rush - Move +2 and Attack
 
 Knight
 
