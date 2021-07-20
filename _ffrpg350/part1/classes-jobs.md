@@ -34,7 +34,7 @@ Active Role
 
 Fencer
 
-Fighter
+[Fighter](/ffrpg3.5/ffrpg350/part1/fighter/)
 
 Knight
 
@@ -48,17 +48,17 @@ Chemist
 
 Mediator
 
-Thief
+[Thief](/ffrpg3.5/ffrpg350/part1/thief/)
 
 ### Magical Classes
 
-[Black Mage](/ffrpg350/part1/black-mage/)
+[Black Mage](/ffrpg3.5/ffrpg350/part1/black-mage/)
 
 Geomancer
 
 Time Mage
 
-White Mage
+[White Mage](/ffrpg3.5/ffrpg350/part1/white-mage/)
 
 ## All Jobs
 

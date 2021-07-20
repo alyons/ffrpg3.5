@@ -1,5 +1,5 @@
 ---
-permalink: /docs/ffrpg5/classes/white-mage/
+permalink: /ffrpg350/part1/classes-jobs/white-mage/
 title: "White Mage"
 ---
 

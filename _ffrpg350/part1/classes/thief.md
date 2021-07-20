@@ -1,5 +1,5 @@
 ---
-permalink: /docs/ffrpg5/classes/thief/
+permalink: /ffrpg350/part1/classes-jobs/thief/
 title: "Thief"
 ---
 

@@ -1,5 +1,5 @@
 ---
-permalink: /docs/ffrpg5/classes/fighter/
+permalink: /ffrpg350/part1/classes-jobs/fighter/
 title: "Fighter"
 ---
 

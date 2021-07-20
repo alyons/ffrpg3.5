@@ -1,5 +1,5 @@
 ---
-permalink: /ffrpg350/part1/black-mage/
+permalink: /ffrpg350/part1/classes-jobs/black-mage/
 title: "Black Mage"
 ---
 
