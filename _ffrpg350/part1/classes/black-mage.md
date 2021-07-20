@@ -1,5 +1,5 @@
 ---
-permalink: /docs/ffrpg5/classes/black-mage/
+permalink: /ffrpg350/part1/black-mage/
 title: "Black Mage"
 ---
 

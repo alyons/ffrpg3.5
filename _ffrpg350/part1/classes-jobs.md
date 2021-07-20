@@ -1,5 +1,5 @@
 ---
-permalink: /docs/ffrpg5/classes-jobs/
+permalink: /ffrpg350/part1/classes-jobs/
 title: "Classes and Jobs"
 ---
 
@@ -52,7 +52,7 @@ Thief
 
 ### Magical Classes
 
-Black Mage
+[Black Mage](/ffrpg350/part1/black-mage/)
 
 Geomancer
 
