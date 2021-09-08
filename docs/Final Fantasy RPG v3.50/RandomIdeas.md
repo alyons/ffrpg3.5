@@ -23,3 +23,6 @@ Spells
 - Off-hand - can be used effectively in off-hand
 - Reach - +1 square to target for attacks
 - Versatile - Use weapon one or two handed, 
+
+## Punishment for Death
+- Reduce HP & MP on revival
