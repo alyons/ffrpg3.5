@@ -143,13 +143,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "b8a01b8a1a9fa4b6",
   "lastOpenFiles": [
-    "docs/Literature Notes/Jobs from Strangers of Paradise.md",
+    "docs/Final Fantasy RPG v3.50/RawNotes.md",
+    "docs/Final Fantasy RPG v3.50/RandomIdeas.md",
     "docs/Final Fantasy RPG v3.50/ClassesAndJobs.md",
+    "docs/Literature Notes/Jobs from Strangers of Paradise.md",
     "docs/Templates/Architecture Decision Record Template.md",
     "docs/Fleeting Notes/2022-10-02_Random-Number-Generator.md",
     "docs/index.md",
