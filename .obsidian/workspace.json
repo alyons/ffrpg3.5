@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b8a01b8a1a9fa4b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Final Fantasy RPG v3.50/ClassesAndJobs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c7b65dff3b5ab7e1",
             "type": "leaf",
             "state": {
@@ -30,9 +18,39 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d05a67990212226c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Fleeting Notes/Classes & Jobs with Roles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "c63ef021ae559470",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54d596475534996f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Final Fantasy RPG v3.50/ClassesAndJobs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "478b053a0de94a91",
@@ -98,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Fleeting Notes/Final Fantasy 1 - Story Notes.md",
+                "file": "docs/Fleeting Notes/Classes & Jobs with Roles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Fleeting Notes/Final Fantasy 1 - Story Notes.md",
+                "file": "docs/Fleeting Notes/Classes & Jobs with Roles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Fleeting Notes/Final Fantasy 1 - Story Notes.md"
+                "file": "docs/Fleeting Notes/Classes & Jobs with Roles.md"
               }
             }
           }
@@ -161,17 +180,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c7b65dff3b5ab7e1",
+  "active": "d05a67990212226c",
   "lastOpenFiles": [
     "docs/Final Fantasy RPG v3.50/ClassesAndJobs.md",
+    "docs/Fleeting Notes/Final Fantasy 1 - Story Notes.md",
+    "docs/Fleeting Notes/Classes & Jobs with Roles.md",
     "docs/Final Fantasy RPG v3.50/Magic.md",
     "docs/Final Fantasy RPG v3.50/RawNotes.md",
     "docs/Final Fantasy RPG v3.50/RandomIdeas.md",
     "docs/Literature Notes/Jobs from Strangers of Paradise.md",
     "docs/Templates/Architecture Decision Record Template.md",
     "docs/Fleeting Notes/2022-10-02_Random-Number-Generator.md",
-    "docs/index.md",
-    "docs/index.old.md",
-    "docs/System Design.md"
+    "docs/index.md"
   ]
 }
