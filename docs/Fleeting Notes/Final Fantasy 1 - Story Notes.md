@@ -8,4 +8,32 @@
 	- Fight Garland, rescue the Princess
 - Go back to Cornelia
 	- Talk to the princess to get the LUTE
-	- The bridge is finis
+	- The bridge is finished to the north
+- Find Matoya's Cave
+	- Her crystal eye was stolen, and she wants you to get it back
+- Head to the twon of Pravoca
+	- Talk to the towns people and learn about the pirate plight
+	- Get the pirates to leave the city (Boss fight)
+	- Get access to a ship
+	- Pravoca has level 2 spells and better equipment
+- Ocean - Mini Game
+	- Use something like Triple Triad or the like to have mini games
+- Elfheim
+	- Townsfolk have more problems
+	- Must go to the castle to dethrone the king
+	- The castle is locked, need to head to the Marsh Cave to get the crown
+- Marsh Cave
+	- Enemies cause poison a lot
+	- Boss fight: Piscodemon
+	- Head back to Elfheim
+- Elfheim 2
+	- Restore health
+	- Fight boss in western keep; drops Crystal Eye
+	- go back to matoya and deliver her eye
+	- she gives you the jolt tonic
+	- use the jolt tonic on the elf prince to awaken him
+	- get the mystic key
+	- mystic key grants access to better chests
+	- back track to get some sick loot
+- Mt. Duergar & Melmond
+	- Use the TNT you got in Cornelia when you backtracked with the mystic key to get access to the mountain
