@@ -55,4 +55,4 @@
 | Ranger       |     |              |
 | Assassin     |     |              |
 | Sword Master |     |              |
-|              |     |              |
+
