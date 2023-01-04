@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c7b65dff3b5ab7e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Fleeting Notes/Final Fantasy 1 - Story Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Final Fantasy RPG v3.50/ClassesAndJobs.md",
+                "file": "docs/Fleeting Notes/Final Fantasy 1 - Story Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Final Fantasy RPG v3.50/ClassesAndJobs.md",
+                "file": "docs/Fleeting Notes/Final Fantasy 1 - Story Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Final Fantasy RPG v3.50/ClassesAndJobs.md"
+                "file": "docs/Fleeting Notes/Final Fantasy 1 - Story Notes.md"
               }
             }
           }
@@ -148,17 +161,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b8a01b8a1a9fa4b6",
+  "active": "c7b65dff3b5ab7e1",
   "lastOpenFiles": [
+    "docs/Final Fantasy RPG v3.50/ClassesAndJobs.md",
+    "docs/Final Fantasy RPG v3.50/Magic.md",
     "docs/Final Fantasy RPG v3.50/RawNotes.md",
     "docs/Final Fantasy RPG v3.50/RandomIdeas.md",
-    "docs/Final Fantasy RPG v3.50/ClassesAndJobs.md",
     "docs/Literature Notes/Jobs from Strangers of Paradise.md",
     "docs/Templates/Architecture Decision Record Template.md",
     "docs/Fleeting Notes/2022-10-02_Random-Number-Generator.md",
     "docs/index.md",
     "docs/index.old.md",
-    "docs/System Design.md",
-    "docs/Updates.md"
+    "docs/System Design.md"
   ]
 }

@@ -1,0 +1,11 @@
+
+- Create your party
+- Go to Cornelia and purchase basic equipment
+- Fight and get to level 2 or 3
+- Go to the Chaos Shrine and fight Garland
+	- There are some extra treasure chests if you walk around
+	- The ones to the left are unlocked, the ones to the right are locked
+	- Fight Garland, rescue the Princess
+- Go back to Cornelia
+	- Talk to the princess to get the LUTE
+	- The bridge is finis
