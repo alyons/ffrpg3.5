@@ -318,6 +318,32 @@ Source: https://finalfantasy.fandom.com/wiki/Job_system
 - Berserker
 - Lanista
 
+## Stranger of Paradise: Final Fanatasy Origin
+### Basic Jobs
+- Swordsman
+- Pugilist
+- Duelist
+- Mage
+- Lancer
+- Swordfighter
+- Marauder
+- Ronin
+
+## Advanced Jobs
+- Knight
+- Red Mage
+- Berserker
+- Warrior
+- Samurai
+- Thief
+- Monk
+- Dragoon
+- Black Mage
+- White Mage
+
+### Expert Jobs
+- Knight
+
 # Allusions to Jobs
 
 ## Final Fantasy II
@@ -354,3 +380,92 @@ Source: https://finalfantasy.fandom.com/wiki/Job_system
 - Tifa - Monk (Shootfighting)
 - Aerith - Geomancer
 - Red XIII - Beast
+- Cid - Dragoon/Pilot
+- Vincent - Horror-Terror
+- Yuffie - Ninja/Assassin
+- Cait Sith - Beastmaster
+
+## Final Fantasy IX
+- Zidane Thief
+- Dagger Summoner/White Mage
+- Steiner Knight
+- Vivi Black Mage
+- Freya Dragoon
+- Quina Blue Mage
+- Eiko White Mage/Summoner
+- Amarant Monk/Samurai/Ninja
+- Beatrix Paladin
+- Marcus & Blanmk Warrior/Thief
+- Cinna - Machinist/Thief
+
+## Final Fantasy X
+- Tidus - Warrior/Time Mage
+- Auron - Spellblade/Samurai
+- Yuna - White Mage/Summoner
+- Kimahri - Blue Mage (+ Jump)
+- Lulu - Black Mage
+- Rikku - Thief (Monk/Ninja/Machinist/Chemist)
+- Wakka - Ranger (Gambler in overdrive)
+- Seymour Guado - Sage
+
+## Final Fantasy XII: Revenant Wings
+- Vaan - Sky Pirate
+- Penelo - Dancer
+- Kytes - Black Mage
+- Filo - Aviator
+- Llyud - Dragoon
+- Fran - Hunter
+- Balthier - Sky Pirate
+- Basch - Paladin (?)
+- Ashelia - Time Mage
+
+## Kingdom Hearts
+The Organization XIII members represent a class
+- Xemnas - Sorcerer
+- Xigbar - Sniper
+- Xaldin - Dragoon
+- Axel - Assassin
+- Saix - Berserker
+- Demyx (Bard) - Dancers
+- Luxord - Gambler
+- Larxene - Ninja
+- Marluxia - Reaper
+- Roxas - Samurai
+
+## Bravely Series
+- Freelancer
+- Monk
+- White Mage
+- Black Mage
+- Knight
+- Thief
+- Merchant
+- Spell Fencer
+- Time Mage
+- Ranger
+- Summoner
+- Valkyrie
+- Red Mage
+- Salve-Maker
+- Performer
+- Pirate
+- Ninja
+- Swordmaster
+- Arcanist
+- Spiritmaster
+- Templar
+- Dark Knight
+- Vampire
+- Conjurer
+- Wizard _Bravely Second_
+- Charioteer _Bravely Second_
+- Fencer _Bravely Second_
+- Bishop _Bravely Second_
+- Astrologian _Bravely Second_
+- Catmancer _Bravely Second_
+- Hawkeye _Bravely Second_
+- Patissier _Bravely Second_
+- Exorcist _Bravely Second_
+- Guardian _Bravely Second_
+- Kaiser _Bravely Second_
+- Yokai _Bravely Second_
