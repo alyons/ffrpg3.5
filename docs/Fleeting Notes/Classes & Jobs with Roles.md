@@ -20,22 +20,22 @@ And what if Jobs had multiple Paradigms? Meaning that we would be looking at a w
 
 | Name         | Primary Role |
 | ------------ | ------------ |
-| Fighter      |              |
-| Thief        |              |
-| Warrior      |              |
-| Engineer     |              |
-| Conjurer     |              |
-| Arcanist     |              |
-| Brawler      |              |
-| Lancer       |              |
-| Archer       |              |
-| Thaumaturge  |              |
-| Fencer       |              |
-| Knight       |              |
-| Chemist      |              |
-| Mediator     |              |
-| Geomancer    |              |
-| Elementalist |              |
+| Brawler      | Commando     |
+| Fencer       | Commando     |
+| Lancer       | Commando     |
+| Thief        | Commando     |
+| Thaumaturge  | Ravager      |
+| Geomancer    | Ravager      |
+| Elementalist | Ravager      |
+| Fighter      | Sentinel     |
+| Warrior      | Sentinel     |
+| Knight       | Sentinel     |
+| Archer       | Saboteur     |
+| Mediator     | Saboteur     |
+| Chemist      | Synergist    |
+| Engineer     | Synergist    |
+| Arcanist     | Medic        |
+| Conjurer     | Medic        |
 
 ## Jobs
 
