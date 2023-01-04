@@ -1,6 +1,8 @@
 
 Source: https://finalfantasy.fandom.com/wiki/Job_system
 
+# Classes & Jobs
+
 ## Final Fantasy
 - Fighter -> Knight
 - Thief -> Ninja
@@ -204,5 +206,151 @@ Source: https://finalfantasy.fandom.com/wiki/Job_system
 - Temple Knight/Templar
 - Dragoner/Dargonkin
 - Soldier (Cloud FFVII)
-- Sky Pirate
-- Game Hunter
+- Sky Pirate _Only in War of the Lions_
+- Game Hunter _Only in War of the Lions_
+### Guest Jobs
+- Astrologer
+- Cleric
+- Fell Knight
+- Princess
+- Ark Knight
+### Enemy Jobs
+- Ark Knight
+- Assassin
+- Celebrant
+- Deathknight
+- Fell Knight
+- Nightblade
+- Rune Knight
+- Sorcerer
+
+## Final Fantasy Tactics Advance
+- Soldier
+- Paladin
+- Fighter
+- Thief
+- Ninja
+- Archer
+- Hunter
+- Black Mage
+- White Mage
+- Blue Mage
+- Illusionist
+- Beastmaster
+- Morpher
+- Sage
+- Alchemist
+- Time Mage
+- Animist
+- Gunner
+- Mog Knight
+- Juggler
+- Gadgeteer
+- Fencer
+- Red Mage
+- Elementalist
+- Summoner
+- Sniper
+- Assassin
+- Warrior
+- Dragoon
+- Defender
+- Gladiator
+- White Monk
+- Bishop
+- Templar
+### Special Jobs
+- Biskmatar
+- Hermetic
+- Judgemaster
+- Runeseeker
+
+## Final Fantasy Tactics A2: Grimore of the Rift
+- Soldier
+- Fighter
+- Paladin
+- Parivir
+- Thief
+- Archer
+- Ninja
+- Hunter
+- White Mage
+- Black Mage
+- Seer
+- Illusionist
+- Blue Mage
+- Warrior
+- Dragoon
+- Cannoneer
+- Gladitor
+- Defender
+- White Monk
+- Master Monk
+- Bishop
+- Trickster
+- Templar
+- Time Mage
+- Arcanist
+- Beastmaster
+- Sage
+- Scholar
+- Alchemist
+- Animist
+- Moogle Knight
+- Fusilier
+- Chocobo Knight
+- Flintlock
+- Juggler
+- Thief
+- Tinkerer
+- Fencer
+- Red Mage
+- Green Mage
+- Spellblade
+- Summoner
+- Elementalist
+- Sniper Assasin
+- Raptor
+- Ravager
+- Geomancer
+- Ranger
+- Viking
+- Berserker
+- Lanista
+
+# Allusions to Jobs
+
+## Final Fantasy II
+- Minwu (White Mage)
+- Josef (Monk)
+- Richard (Dragoon)
+- Leon (Dark Knight)
+- Prince Scott (Red Mage)
+
+## Final Fantasy IV
+- To Complete
+
+## Final Fantasy VI
+- Tera (Magitek Elite)
+- Locke (Adventurer (Thief))
+- Cyan (Samurai)
+- Shadow (Assassin/Ninja)
+- Edgar (Machinist)
+- Sabin (Monk)
+- Celes (Rune Knight)
+- Strago (Blue Mage)
+- Relm (Pictomancer (Beastmaster))
+- Setzer (Gambler)
+- Moogles (Moogle)
+- Gau (Blue Mage)
+- Gogo (Mime)
+- Umaro (Yeti (Berserker))
+- Banon (Oracle but more like White Mage)
+- Biggs & Wedge (Soldier akin to FFTA)
+
+## Final Fantasy VII
+- Cloud - Magic Swordsman
+- Barret - Gunner
+- Tifa - Monk (Shootfighting)
+- Aerith - Geomancer
+- Red XIII - Beast
