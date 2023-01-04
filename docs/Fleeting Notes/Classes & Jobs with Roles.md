@@ -55,7 +55,7 @@ And what if Jobs had multiple Paradigms? Meaning that we would be looking at a w
 | Red Mage        | Commando  | Ravager   | Medic     |
 |                 | Commando  | Sentinel  | Commando  |
 | Dark Knight     | Commando  | Sentinel  | Ravager   |
-| Soldier         | Commando  | Sentinel  | Sentinel  |
+|                 | Commando  | Sentinel  | Sentinel  |
 | Gladiator       | Commando  | Sentinel  | Saboteur  |
 | Magitech Knight | Commando  | Sentinel  | Synergist |
 | Paladin         | Commando  | Sentinel  | Medic     |
@@ -131,7 +131,7 @@ And what if Jobs had multiple Paradigms? Meaning that we would be looking at a w
 |                 | Sentinel  | Sentinel  | Saboteur  |
 |                 | Sentinel  | Sentinel  | Synergist |
 |                 | Sentinel  | Sentinel  | Medic     |
-|                 | Sentinel  | Saboteur  | Commando  |
+| Soldier         | Sentinel  | Saboteur  | Commando  |
 |                 | Sentinel  | Saboteur  | Ravager   |
 |                 | Sentinel  | Saboteur  | Sentinel  |
 |                 | Sentinel  | Saboteur  | Saboteur  |
@@ -259,39 +259,4 @@ And what if Jobs had multiple Paradigms? Meaning that we would be looking at a w
 | White Mage      | Medic     | Medic     | Medic     |
 
 
-| Name            | Commando | Ravager | Sentinel | Saboteur | Synergist | Medic |
-| --------------- | -------- | ------- | -------- | -------- | --------- | ----- |
-| Black Mage      |          | Yes     |          |          |           |       |
-| White Mage      |          |         |          |          |           | Yes   |
-| Red Mage        | Yes      | Yes     |          |          |           | Yes   |
-| Green Mage      |          |         |          | Yes      | Yes       |       |
-| Blue Mage       |          |         |          |          |           |       |
-| Time Mage       |          | Yes     |          | Yes      | Yes       |       |
-| Sage            |          | Yes     |          |          |           | Yes   |
-| Monk            | Yes      |         |          |          | Yes       |       |
-| Gladiator       | Yes      |         |          | Yes      |           |       |
-| Paladin         | Yes      |         | Yes      |          |           | Yes   |
-| Dark Knight     | Yes      |         | Yes      | Yes      |           |       |
-| Magitech Knight | Yes      |         | Yes      |          | Yes       |       |
-| Surgeon         |          |         |          |          | Yes       | Yes   |
-| Machinist       | Yes      |         |          |          |           |       |
-| Astrologian     |          |         |          |          |           |       |
-| Privateer       |          |         |          |          |           |       |
-| Scholar         |          |         |          |          |           |       |
-| Dragoon         |          |         |          |          |           |       |
-| Ninja           |          |         |          |          |           |       |
-| Samurai         |          |         |          |          |           |       |
-| SOLDIER         |          |         |          |          |           |       |
-| Reaper          |          |         |          |          |           |       |
-| Bard            |          |         |          |          |           |       |
-| Dancer          |          |         |          |          |           |       |
-| Summoner        |          |         |          |          |           |       |
-| Spellblade      |          |         |          |          |           |       |
-| Caller          |          |         |          |          |           |       |
-| Void Mage       |          |         |          |          |           |       |
-| Rune Knight     |          |         |          |          |           |       |
-| Magic Knight    |          |         |          |          |           |       |
-| Sniper          |          |         |          |          |           |       |
-| Ranger          |          |         |          |          |           |       |
-| Assassin        |          |         |          |          |           |       |
-|                 |          |         |          |          |           |       |
+
