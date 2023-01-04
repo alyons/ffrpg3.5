@@ -342,7 +342,16 @@ Source: https://finalfantasy.fandom.com/wiki/Job_system
 - White Mage
 
 ### Expert Jobs
-- Knight
+- Void Knight
+- Paladin
+- Ninja
+- Assassin
+- Tyrant
+- Breaker
+- Dark Knight
+- Sage
+- Liberator
+- Cyclic Warrior
 
 # Allusions to Jobs
 

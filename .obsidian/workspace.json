@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7b65dff3b5ab7e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Fleeting Notes/All Classes and Jobs in FF Franchise.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "54d596475534996f",
             "type": "leaf",
             "state": {
@@ -43,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Fleeting Notes/All Classes and Jobs in FF Franchise.md",
+                "file": "docs/Fleeting Notes/Classes & Jobs with Roles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Fleeting Notes/All Classes and Jobs in FF Franchise.md",
+                "file": "docs/Fleeting Notes/Classes & Jobs with Roles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Fleeting Notes/All Classes and Jobs in FF Franchise.md"
+                "file": "docs/Fleeting Notes/Classes & Jobs with Roles.md"
               }
             }
           },
@@ -180,17 +169,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c7b65dff3b5ab7e1",
+  "active": "d05a67990212226c",
   "lastOpenFiles": [
-    "docs/Fleeting Notes/Classes & Jobs with Roles.md",
-    "docs/Fleeting Notes/All Classes and Jobs in FF Franchise.md",
-    "docs/Fleeting Notes/Final Fantasy 1 - Story Notes.md",
     "docs/Final Fantasy RPG v3.50/ClassesAndJobs.md",
+    "docs/index.md",
+    "docs/Updates.md",
+    "docs/index.old.md",
+    "docs/System Design.md",
+    "docs/Fleeting Notes/All Classes and Jobs in FF Franchise.md",
+    "docs/Fleeting Notes/Classes & Jobs with Roles.md",
+    "docs/Fleeting Notes/Final Fantasy 1 - Story Notes.md",
     "docs/Final Fantasy RPG v3.50/Magic.md",
-    "docs/Final Fantasy RPG v3.50/RawNotes.md",
-    "docs/Final Fantasy RPG v3.50/RandomIdeas.md",
-    "docs/Literature Notes/Jobs from Strangers of Paradise.md",
-    "docs/Templates/Architecture Decision Record Template.md",
-    "docs/Fleeting Notes/2022-10-02_Random-Number-Generator.md"
+    "docs/Final Fantasy RPG v3.50/RawNotes.md"
   ]
 }
