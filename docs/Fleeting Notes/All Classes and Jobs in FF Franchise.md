@@ -10,7 +10,28 @@ Source: https://finalfantasy.fandom.com/wiki/Job_system
 - Monk -> Master
 
 ## Final Fantasy III
-- Squire -> Tier 1 Jobs -> Tier 2 Jobs
+- Onion Knight
+- Freelancer
+- Warrior
+- Monk
+- White Mage
+- Black Mage
+- Red Mage
+- Thief
+- Ranger
+- Knight
+- Scholar Geomancer
+- Dragoon
+- Viking
+- Dark Knight
+- Evoker
+- Bard
+- Black Belt
+- Devout
+- Magus
+- Summoner
+- Sage
+- Ninja
 
 ## Final Fantasy V
 - 

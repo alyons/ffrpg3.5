@@ -7,14 +7,18 @@ There are four roles in Dungeons & Dragons 4th Edition:
 We had the idea of putting the classes & jobs into the roles or on the abilities.
 
 What if we used Paradigms from Final Fantasy XIII? https://finalfantasy.fandom.com/wiki/Paradigm
-- Commando
-- Ravager
-- Sentinel
-- Sabotuer
-- Synergist
-- Medic
+- Commando - Single Target DPS or Consistent DPS
+- Ravager - Multi Target DPS or Weakness Exploitation
+- Sentinel - Defense for self and others
+- Sabotuer - Impair enemies
+- Synergist - Boost Allies
+- Medic - restore Allies HP (an possibly other resources)
 
-And what if Jobs had multiple Paradigms? Meaning that we would be looking at a way to make thing interesting
+And what if Jobs had multiple Paradigms? Meaning that we would be looking at a way to make thing interesting.
+
+Our system will be based on multi-classing, chosing abilities and feats, and then digging into prestige classes (jobs).
+
+Basic -> Advanced -> Expert in Stranger of Paradise: Final Fantasy Origin
 
 ## Classes
 
