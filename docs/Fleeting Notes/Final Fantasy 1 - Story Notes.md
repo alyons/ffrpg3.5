@@ -1,4 +1,6 @@
 
+Source: https://www.rpgsite.net/feature/11508-final-fantasy-1-walkthrough-where-to-go-dungeon-maps-ff1-step-by-step-guide
+
 - Create your party
 - Go to Cornelia and purchase basic equipment
 - Fight and get to level 2 or 3

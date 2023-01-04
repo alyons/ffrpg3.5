@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "21528d20d44d5fd7",
+        "id": "4c75f130dcc8ee1d",
         "type": "tabs",
         "children": [
           {
-            "id": "54d596475534996f",
+            "id": "85eda7cbb8a59b3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Final Fantasy RPG v3.50/ClassesAndJobs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d05a67990212226c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Fleeting Notes/Classes & Jobs with Roles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "129214b213ae56ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_sotcb/Table of Contents.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8db346335eb0635e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Fleeting Notes/Table of Contents Ideation.md",
+                "file": "docs/Fleeting Notes/2023-01-04 Scratch Pad.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Fleeting Notes/Table of Contents Ideation.md",
+                "file": "docs/Fleeting Notes/2023-01-04 Scratch Pad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Fleeting Notes/Table of Contents Ideation.md",
+                "file": "docs/Fleeting Notes/2023-01-04 Scratch Pad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Fleeting Notes/Table of Contents Ideation.md"
+                "file": "docs/Fleeting Notes/2023-01-04 Scratch Pad.md"
               }
             }
           },
@@ -193,17 +156,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8db346335eb0635e",
+  "active": "85eda7cbb8a59b3e",
   "lastOpenFiles": [
-    "_sotcb/Table of Contents.md",
-    "docs/Fleeting Notes/Classes & Jobs with Roles.md",
     "docs/Final Fantasy RPG v3.50/ClassesAndJobs.md",
+    "docs/Fleeting Notes/Classes & Jobs with Roles.md",
+    "_sotcb/Table of Contents.md",
+    "docs/Fleeting Notes/Final Fantasy 1 - Story Notes.md",
+    "docs/Fleeting Notes/Table of Contents Ideation.md",
     "docs/index.md",
     "docs/Updates.md",
     "docs/index.old.md",
     "docs/System Design.md",
-    "docs/Fleeting Notes/All Classes and Jobs in FF Franchise.md",
-    "docs/Fleeting Notes/Final Fantasy 1 - Story Notes.md",
-    "docs/Final Fantasy RPG v3.50/Magic.md"
+    "docs/Fleeting Notes/All Classes and Jobs in FF Franchise.md"
   ]
 }
