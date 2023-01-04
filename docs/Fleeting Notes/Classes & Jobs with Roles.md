@@ -14,7 +14,7 @@ What if we used Paradigms from Final Fantasy XIII? https://finalfantasy.fandom.c
 - Synergist
 - Medic
 
-And what if Jobs had multiple Paradigms? Meaning that 
+And what if Jobs had multiple Paradigms? Meaning that we would be looking at a way to make thing interesting
 
 ## Classes
 
@@ -39,39 +39,49 @@ And what if Jobs had multiple Paradigms? Meaning that
 
 ## Jobs
 
-| Name            | Primary Role | Classes |
-| --------------- | ------------ | ------- |
-| Black Mage      |              |         |
-| White Mage      |              |         |
-| Red Mage        |              |         |
-| Green Mage      |              |         |
-| Blue Mage       |              |         |
-| Time Mage       |              |         |
-| Sage            |              |         |
-| Monk            |              |         |
-| Gladiator       |              |         |
-| Paladin         |              |         |
-| Dark Knight     |              |         |
-| Magitech Knight |              |         |
-| Surgeon         |              |         |
-| Machinist       |              |         |
-| Astrologian     |              |         |
-| Privateer       |              |         |
-| Scholar         |              |         |
-| Dragoon         |              |         |
-| Ninja           |              |         |
-| Samurai         |              |         |
-| SOLDIER         |              |         |
-| Reaper          |              |         |
-| Bard            |              |         |
-| Dancer          |              |         |
-| Summoner        |              |         |
-| Spellblade      |              |         |
-| Caller          |              |         |
-| Void Mage       |              |         |
-| Rune Knight     |              |         |
-| Magic Knight    |              |         |
-| Sniper          |              |         |
-| Ranger          |              |         |
-| Assassin        |              |         |
-|                 |              |         |
+| Name | Primary  | Secondary | Tertiary  |
+| ---- | -------- | --------- | --------- |
+|      | Commando | Commando  | Commando  |
+|      | Commando         | Commando  | Ravager   |
+|      | Commando         | Commando  | Sentinel  |
+|      | Commando         | Commando  | Saboteur  |
+|      | Commando         | Commando  | Synergist |
+|      |          | Commando  | Medic     |
+|      |          |           |           |
+
+| Name            | Commando | Ravager | Sentinel | Saboteur | Synergist | Medic |
+| --------------- | -------- | ------- | -------- | -------- | --------- | ----- |
+| Black Mage      |          | Yes     |          |          |           |       |
+| White Mage      |          |         |          |          |           | Yes   |
+| Red Mage        | Yes      | Yes     |          |          |           | Yes   |
+| Green Mage      |          |         |          | Yes      | Yes       |       |
+| Blue Mage       |          |         |          |          |           |       |
+| Time Mage       |          | Yes     |          | Yes      | Yes       |       |
+| Sage            |          | Yes     |          |          |           | Yes   |
+| Monk            | Yes      |         |          |          | Yes       |       |
+| Gladiator       | Yes      |         |          | Yes      |           |       |
+| Paladin         | Yes      |         | Yes      |          |           | Yes   |
+| Dark Knight     | Yes      |         | Yes      | Yes      |           |       |
+| Magitech Knight | Yes      |         | Yes      |          | Yes       |       |
+| Surgeon         |          |         |          |          | Yes       | Yes   |
+| Machinist       | Yes      |         |          |          |           |       |
+| Astrologian     |          |         |          |          |           |       |
+| Privateer       |          |         |          |          |           |       |
+| Scholar         |          |         |          |          |           |       |
+| Dragoon         |          |         |          |          |           |       |
+| Ninja           |          |         |          |          |           |       |
+| Samurai         |          |         |          |          |           |       |
+| SOLDIER         |          |         |          |          |           |       |
+| Reaper          |          |         |          |          |           |       |
+| Bard            |          |         |          |          |           |       |
+| Dancer          |          |         |          |          |           |       |
+| Summoner        |          |         |          |          |           |       |
+| Spellblade      |          |         |          |          |           |       |
+| Caller          |          |         |          |          |           |       |
+| Void Mage       |          |         |          |          |           |       |
+| Rune Knight     |          |         |          |          |           |       |
+| Magic Knight    |          |         |          |          |           |       |
+| Sniper          |          |         |          |          |           |       |
+| Ranger          |          |         |          |          |           |       |
+| Assassin        |          |         |          |          |           |       |
+|                 |          |         |          |          |           |       |
