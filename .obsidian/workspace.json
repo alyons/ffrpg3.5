@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Fleeting Notes/2023-01-04 Scratch Pad.md",
+                "file": "docs/Fleeting Notes/Classes & Jobs with Roles.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Fleeting Notes/2023-01-04 Scratch Pad.md",
+                "file": "docs/Fleeting Notes/Classes & Jobs with Roles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Fleeting Notes/2023-01-04 Scratch Pad.md",
+                "file": "docs/Fleeting Notes/Classes & Jobs with Roles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Fleeting Notes/2023-01-04 Scratch Pad.md"
+                "file": "docs/Fleeting Notes/Classes & Jobs with Roles.md"
               }
             }
           },
@@ -158,6 +158,8 @@
   },
   "active": "85eda7cbb8a59b3e",
   "lastOpenFiles": [
+    "docs/Fleeting Notes/All Classes and Jobs in FF Franchise.md",
+    "docs/Fleeting Notes/2023-01-04 Scratch Pad.md",
     "docs/Final Fantasy RPG v3.50/ClassesAndJobs.md",
     "docs/Fleeting Notes/Classes & Jobs with Roles.md",
     "_sotcb/Table of Contents.md",
@@ -165,8 +167,6 @@
     "docs/Fleeting Notes/Table of Contents Ideation.md",
     "docs/index.md",
     "docs/Updates.md",
-    "docs/index.old.md",
-    "docs/System Design.md",
-    "docs/Fleeting Notes/All Classes and Jobs in FF Franchise.md"
+    "docs/index.old.md"
   ]
 }
