@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Final Fantasy RPG v3.50/RawNotes.md",
+                "file": "docs/Fleeting Notes/All Classes and Jobs in FF Franchise.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Final Fantasy RPG v3.50/RawNotes.md",
+                "file": "docs/Fleeting Notes/All Classes and Jobs in FF Franchise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Final Fantasy RPG v3.50/RawNotes.md",
+                "file": "docs/Fleeting Notes/All Classes and Jobs in FF Franchise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Final Fantasy RPG v3.50/RawNotes.md"
+                "file": "docs/Fleeting Notes/All Classes and Jobs in FF Franchise.md"
               }
             }
           },
@@ -158,15 +158,15 @@
   },
   "active": "85eda7cbb8a59b3e",
   "lastOpenFiles": [
-    "docs/Final Fantasy RPG v3.50/RandomIdeas.md",
-    "docs/Fleeting Notes/Classes & Jobs with Roles.md",
-    "docs/Fleeting Notes/All Classes and Jobs in FF Franchise.md",
-    "docs/Fleeting Notes/2023-01-04 Scratch Pad.md",
-    "docs/Final Fantasy RPG v3.50/ClassesAndJobs.md",
     "_sotcb/Table of Contents.md",
-    "docs/Fleeting Notes/Final Fantasy 1 - Story Notes.md",
+    "_ffrpg350/part0/introduction.md",
+    "_ffrpg350/part0/prelude.md",
+    "_ffrpg350/part1/classes-jobs.md",
+    "_ffrpg350/part1/stats.md",
     "docs/Fleeting Notes/Table of Contents Ideation.md",
-    "docs/index.md",
-    "docs/Updates.md"
+    "docs/Fleeting Notes/Final Fantasy 1 - Story Notes.md",
+    "docs/Final Fantasy RPG v3.50/RawNotes.md",
+    "docs/Final Fantasy RPG v3.50/RandomIdeas.md",
+    "docs/Fleeting Notes/Classes & Jobs with Roles.md"
   ]
 }
