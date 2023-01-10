@@ -136,3 +136,13 @@ Social Stats: Int, Wis, Cha
 | Vehicles        |              |                      |             |
 
 
+Clearly We don't want all of those skills, but some of those could be default proficiencies!
+
+- Separate Weapon Skills out to something else
+- Add Rods/Staves as they are more magical, or remove Cudgels b/c we aren't adding clubs
+
+## Creating a Character
+
+- Pick an Ancestry
+- Pick a Background
+- (Determine if you want to use a custom Ancestry)
