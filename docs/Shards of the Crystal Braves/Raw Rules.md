@@ -56,7 +56,7 @@ Dice
 	-  Athletics such as jumping would net you your half modifier
 	-  Lockpicking would afford you no such bonus.
 
-Combat Stats: HP, MP, Str, Vit, Mag, Spr, Dex
+Combat Stats: HP, MP, Str, Vit, Mag, Spr, Dex, Speed, Agility, Faith
 Social Stats: Int, Wis, Cha
 
 ## Skills
@@ -145,4 +145,28 @@ Clearly We don't want all of those skills, but some of those could be default pr
 
 - Pick an Ancestry
 - Pick a Background
-- (Determine if you want to use a custom Ancestry)
+- (Determine if you want to use a custom Ancestry/Background configuration, those provided here are for a quick reference in a generic Final Fantasy setting).
+- Pick a Class
+- Determine your starting stats
+- Determine your starting equipment
+- Go Adventuring
+- Recommended to make the characters together as well as the team in Session 0
+
+## Creating an Adventuring Group/Company
+
+- Pick a team name
+- Determine how characters know each other
+- Pick a team goal
+- Work with DM to make sure it all works within the setting
+
+## Combat
+- A character has three actions (cribbed from Pathfinder 2)
+- An Attack takes one action
+- Moving takes one action
+- You cannot move more than twice in one turn
+- You can attack only once in each turn
+- Using an item takes one action
+- Switching weapons takes two actions
+- Battle takes place on a hex-grid
+- Each hex represents about 1 (?) meter
+
