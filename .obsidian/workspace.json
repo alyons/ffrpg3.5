@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4c75f130dcc8ee1d",
+        "id": "e68f40401c2213b6",
         "type": "tabs",
         "children": [
           {
-            "id": "85eda7cbb8a59b3e",
+            "id": "bce391cb29187666",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Fleeting Notes/2023-01-04 Scratch Pad.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Fleeting Notes/2023-01-04 Scratch Pad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Fleeting Notes/2023-01-04 Scratch Pad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/Fleeting Notes/2023-01-04 Scratch Pad.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,8 +148,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "85eda7cbb8a59b3e",
+  "active": "bce391cb29187666",
   "lastOpenFiles": [
+    "docs/Fleeting Notes/2023-01-04 Scratch Pad.md",
     "docs/Final Fantasy RPG v3.50/ClassesAndJobs.md",
     "docs/Fleeting Notes/Classes & Jobs with Roles.md",
     "_sotcb/Table of Contents.md",
@@ -166,7 +159,6 @@
     "docs/index.md",
     "docs/Updates.md",
     "docs/index.old.md",
-    "docs/System Design.md",
-    "docs/Fleeting Notes/All Classes and Jobs in FF Franchise.md"
+    "docs/System Design.md"
   ]
 }
