@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "36a754789775cfcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "206827504ca1d8df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Shards of the Crystal Braves/Raw Rules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "478b053a0de94a91",
@@ -142,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,15 +178,15 @@
   },
   "active": "855cb3eb3ba9e277",
   "lastOpenFiles": [
-    "_sotcb/0 - Table of Contents.md",
-    "_sotcb/1 - Prelude.md",
+    "docs/Shards of the Crystal Braves/Raw Rules.md",
     "_sotcb/2 - How to Play.md",
-    "docs/Fleeting Notes/All Classes and Jobs in FF Franchise.md",
-    "docs/Fleeting Notes/Classes & Jobs with Roles.md",
-    "conflict-files-obsidian-git.md",
+    "docs/Shards of the Crystal Braves/03_Ancestry.md",
+    "docs/Fleeting Notes/Final Fantasy 1 - Story Notes.md",
     "docs/Fleeting Notes/Table of Contents Ideation.md",
-    "_ffrpg350/part0/introduction.md",
-    "_ffrpg350/part0/prelude.md",
-    "_ffrpg350/part1/classes-jobs.md"
+    "docs/Fleeting Notes/2022-10-02_Random-Number-Generator.md",
+    "docs/Fleeting Notes/Classes & Jobs with Roles.md",
+    "docs/Fleeting Notes/All Classes and Jobs in FF Franchise.md",
+    "docs/Fleeting Notes/2023-01-04 Scratch Pad.md",
+    "_sotcb/1 - Prelude.md"
   ]
 }
