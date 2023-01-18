@@ -11,8 +11,12 @@
             "id": "855cb3eb3ba9e277",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_sotcb/2 - How to Play.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_sotcb/2 - How to Play.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_sotcb/2 - How to Play.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_sotcb/2 - How to Play.md"
+              }
             }
           },
           {
@@ -150,13 +158,13 @@
   },
   "active": "855cb3eb3ba9e277",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "_sotcb/0 - Table of Contents.md",
     "_sotcb/1 - Prelude.md",
-    "docs/Fleeting Notes/Table of Contents Ideation.md",
     "_sotcb/2 - How to Play.md",
-    "docs/Fleeting Notes/Classes & Jobs with Roles.md",
     "docs/Fleeting Notes/All Classes and Jobs in FF Franchise.md",
+    "docs/Fleeting Notes/Classes & Jobs with Roles.md",
+    "conflict-files-obsidian-git.md",
+    "docs/Fleeting Notes/Table of Contents Ideation.md",
     "_ffrpg350/part0/introduction.md",
     "_ffrpg350/part0/prelude.md",
     "_ffrpg350/part1/classes-jobs.md"
