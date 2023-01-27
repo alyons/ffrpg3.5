@@ -40,18 +40,38 @@ Note+: With Advantage
 
 ## Leveling
 
-| Level | Total XP | Ability Score | Features | Feats Known |
-| ----- | -------- | ------------- | -------- | ----------- |
-| 1     |          |               |          |             |
-| 2     |          |               |          |             |
-| 3     |          |               |          |             |
-| 4     |          |               |          |             |
-| 5     |          |               |          |             |
-| 6     |          |               |          |             |
-| 7     |          |               |          |             |
-| 8     |          |               |          |             |
-| 9     |          |               |          |             |
-|       |          |               |          |             |
+| Level | Total XP | Ability Score         | Features | Feats Known |
+| ----- | -------- | --------------------- | -------- | ----------- |
+| 1     |          | Ancestry & Background |          |             |
+| 2     |          |                       |          |             |
+| 3     |          |                       |          |             |
+| 4     |          |                       |          |             |
+| 5     |          |                       |          |             |
+| 6     |          |                       |          |             |
+| 7     |          |                       |          |             |
+| 8     |          |                       |          |             |
+| 9     |          |                       |          |             |
+| 10    |          |                       |          |             |
+| 11    |          |                       |          |             |
+| 12    |          |                       |          |             |
+| 13    |          |                       |          |             |
+| 14    |          |                       |          |             |
+| 15    |          |                       |          |             |
+| 16    |          |                       |          |             |
+| 17    |          |                       |          |             |
+| 18    |          |                       |          |             |
+| 19    |          |                       |          |             |
+| 20    |          |                       |          |             |
+| 21    |          |                       |          |             |
+| 22    |          |                       |          |             |
+| 23    |          |                       |          |             |
+| 24    |          |                       |          |             |
+| 25    |          |                       |          |             |
+| 26    |          |                       |          |             |
+| 27    |          |                       |          |             |
+| 28    |          |                       |          |             |
+| 29    |          |                       |          |             |
+| 30    |          |                       |          |             |
 
 ### Advantage and Disadvantage
 - Amounts of advantage and disadvantage would add die and given the amount of change, you would drop the lowest or the highest
