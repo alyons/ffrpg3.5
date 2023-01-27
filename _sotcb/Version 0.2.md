@@ -38,6 +38,21 @@ Note*: Some skills cannot be used as untrained.
 
 Note+: With Advantage
 
+## Leveling
+
+| Level | Total XP | Ability Score | Features | Feats Known |
+| ----- | -------- | ------------- | -------- | ----------- |
+| 1     |          |               |          |             |
+| 2     |          |               |          |             |
+| 3     |          |               |          |             |
+| 4     |          |               |          |             |
+| 5     |          |               |          |             |
+| 6     |          |               |          |             |
+| 7     |          |               |          |             |
+| 8     |          |               |          |             |
+| 9     |          |               |          |             |
+|       |          |               |          |             |
+
 ### Advantage and Disadvantage
 - Amounts of advantage and disadvantage would add die and given the amount of change, you would drop the lowest or the highest
 	- If a player has advantage, they add one die to the pool and drop the lowest

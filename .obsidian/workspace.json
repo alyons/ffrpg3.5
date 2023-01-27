@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Shards of the Crystal Braves/Raw Rules.md",
+                "file": "_sotcb/Version 0.2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Shards of the Crystal Braves/Raw Rules.md",
+                "file": "_sotcb/Version 0.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Shards of the Crystal Braves/Raw Rules.md",
+                "file": "_sotcb/Version 0.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Shards of the Crystal Braves/Raw Rules.md"
+                "file": "_sotcb/Version 0.2.md"
               }
             }
           }
@@ -150,15 +150,15 @@
   },
   "active": "61d251da57103f5f",
   "lastOpenFiles": [
+    "docs/Fleeting Notes/2023-01-04 Scratch Pad.md",
+    "docs/Fleeting Notes/2022-10-02_Random-Number-Generator.md",
+    "docs/Shards of the Crystal Braves/Raw Rules.md",
     "docs/Shards of the Crystal Braves/03_Ancestry.md",
     "docs/Shards of the Crystal Braves/02_Character Creation.md",
     "docs/Shards of the Crystal Braves/01_How to Play.md",
     "docs/Shards of the Crystal Braves/00_Introduction.md",
     "docs/Literature Notes/Jobs from Strangers of Paradise.md",
     "docs/Fleeting Notes/Table of Contents Ideation.md",
-    "docs/Fleeting Notes/Final Fantasy 1 - Story Notes.md",
-    "docs/Fleeting Notes/Classes & Jobs with Roles.md",
-    "docs/Fleeting Notes/2023-01-04 Scratch Pad.md",
-    "docs/Fleeting Notes/All Classes and Jobs in FF Franchise.md"
+    "docs/Fleeting Notes/Final Fantasy 1 - Story Notes.md"
   ]
 }
