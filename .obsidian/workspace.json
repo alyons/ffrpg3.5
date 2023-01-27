@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_sotcb/2 - How to Play.md",
+                "file": "docs/Fleeting Notes/Classes & Jobs with Roles.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_sotcb/2 - How to Play.md",
+                "file": "docs/Fleeting Notes/Classes & Jobs with Roles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_sotcb/2 - How to Play.md",
+                "file": "docs/Fleeting Notes/Classes & Jobs with Roles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_sotcb/2 - How to Play.md"
+                "file": "docs/Fleeting Notes/Classes & Jobs with Roles.md"
               }
             }
           }
@@ -148,17 +148,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87f79aeac0901de6",
+  "active": "697dbefc46ec9c9d",
   "lastOpenFiles": [
-    "_sotcb/1 - Prelude.md",
-    "_sotcb/0 - Table of Contents.md",
     "docs/Shards of the Crystal Braves/Raw Rules.md",
-    "_ffrpg350/part1/classes/white-mage.md",
-    "_ffrpg350/part1/classes/thief.md",
-    "_ffrpg350/part1/classes/black-mage.md",
-    "_ffrpg350/part0/prelude.md",
-    "_ffrpg350/part0/introduction.md",
-    "docs/Final Fantasy RPG v3.50/ClassesAndJobs.md",
-    "docs/Literature Notes/Jobs from Strangers of Paradise.md"
+    "docs/index.md",
+    "docs/Shards of the Crystal Braves/00_Introduction.md",
+    "docs/Shards of the Crystal Braves/01_How to Play.md",
+    "docs/Shards of the Crystal Braves/02_Character Creation.md",
+    "docs/Shards of the Crystal Braves/03_Ancestry.md",
+    "_sotcb/0 - Table of Contents.md",
+    "_sotcb/1 - Prelude.md",
+    "_sotcb/2 - How to Play.md",
+    "_ffrpg350/part1/classes/white-mage.md"
   ]
 }
