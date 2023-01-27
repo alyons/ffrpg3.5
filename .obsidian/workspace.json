@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a30e8ba1faf1b734",
+        "id": "cf78320965f5cb11",
         "type": "tabs",
         "children": [
           {
-            "id": "87f79aeac0901de6",
+            "id": "61d251da57103f5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,17 +148,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "697dbefc46ec9c9d",
+  "active": "61d251da57103f5f",
   "lastOpenFiles": [
+    "docs/Fleeting Notes/Final Fantasy 1 - Story Notes.md",
+    "docs/Fleeting Notes/Classes & Jobs with Roles.md",
+    "_sotcb/Version 0.2.md",
+    "_sotcb/2 - How to Play.md",
+    "_sotcb/1 - Prelude.md",
+    "_sotcb/0 - Table of Contents.md",
     "docs/Shards of the Crystal Braves/Raw Rules.md",
     "docs/index.md",
     "docs/Shards of the Crystal Braves/00_Introduction.md",
-    "docs/Shards of the Crystal Braves/01_How to Play.md",
-    "docs/Shards of the Crystal Braves/02_Character Creation.md",
-    "docs/Shards of the Crystal Braves/03_Ancestry.md",
-    "_sotcb/0 - Table of Contents.md",
-    "_sotcb/1 - Prelude.md",
-    "_sotcb/2 - How to Play.md",
-    "_ffrpg350/part1/classes/white-mage.md"
+    "docs/Shards of the Crystal Braves/01_How to Play.md"
   ]
 }
