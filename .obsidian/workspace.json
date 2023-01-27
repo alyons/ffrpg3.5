@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_sotcb/Version 0.2.md",
+                "file": "docs/Final Fantasy RPG v3.50/Magic.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_sotcb/Version 0.2.md",
+                "file": "docs/Final Fantasy RPG v3.50/Magic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_sotcb/Version 0.2.md",
+                "file": "docs/Final Fantasy RPG v3.50/Magic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_sotcb/Version 0.2.md"
+                "file": "docs/Final Fantasy RPG v3.50/Magic.md"
               }
             }
           }
@@ -150,13 +150,13 @@
   },
   "active": "61d251da57103f5f",
   "lastOpenFiles": [
+    "_sotcb/Version 0.2.md",
     "docs/Templates/Architecture Decision Record Template.md",
     "docs/Shards of the Crystal Braves/Raw Rules.md",
     "docs/Shards of the Crystal Braves/03_Ancestry.md",
     "docs/Fleeting Notes/Table of Contents Ideation.md",
     "docs/Literature Notes/Jobs from Strangers of Paradise.md",
     "_ffrpg350/part1/classes/black-mage.md",
-    "_sotcb/Version 0.2.md",
     "docs/Fleeting Notes/2023-01-04 Scratch Pad.md",
     "docs/Fleeting Notes/2022-10-02_Random-Number-Generator.md",
     "docs/Shards of the Crystal Braves/02_Character Creation.md"
